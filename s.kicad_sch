@@ -4220,8 +4220,8 @@
 		)
 	)
 	(sheet
-		(at 42.545 132.715)
-		(size 12.7 12.065)
+		(at 57.785 108.585)
+		(size 20.32 73.66)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4236,7 +4236,7 @@
 		)
 		(uuid "a812912f-b8b6-421b-ac40-d6794a05d4c4")
 		(property "Sheetname" "switch_matrix"
-			(at 42.545 132.0034 0)
+			(at 57.785 107.8734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4245,12 +4245,142 @@
 			)
 		)
 		(property "Sheetfile" "switch_matrix.kicad_sch"
-			(at 42.545 145.3646 0)
+			(at 57.785 182.8296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "Col1" bidirectional
+			(at 57.785 112.395 180)
+			(uuid "0bea42aa-f500-44d3-b307-f75df9843041")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col2" bidirectional
+			(at 57.785 116.205 180)
+			(uuid "57bd406c-a016-4760-8f65-a331793851b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col3" bidirectional
+			(at 57.785 120.015 180)
+			(uuid "d9d578d1-d012-407d-9c24-3648577bdb2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col4" bidirectional
+			(at 57.785 123.825 180)
+			(uuid "e2e7e32a-9410-41da-a2d1-0f4871327742")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col5" bidirectional
+			(at 57.785 127.635 180)
+			(uuid "07032431-7f53-4ca5-a11b-b2769cf0817e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col6" bidirectional
+			(at 57.785 131.445 180)
+			(uuid "e6d01c07-b7cb-4eaf-a8f9-f1eff6f24a11")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col7" bidirectional
+			(at 57.785 136.525 180)
+			(uuid "b0e6992e-d6f1-416c-9e39-82d7005ea2f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col8" bidirectional
+			(at 57.785 139.7 180)
+			(uuid "0f0a539b-3629-4602-8f0a-52ce45a7a1c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col9" bidirectional
+			(at 57.785 142.24 180)
+			(uuid "e9dfda8f-d3cd-42dd-b719-3870b4f47e89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Col10" bidirectional
+			(at 57.785 144.78 180)
+			(uuid "4f1efeaa-ae52-4a9c-a02c-e6ff3db86fd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Row1" bidirectional
+			(at 57.785 153.035 180)
+			(uuid "f73d8006-75d1-444c-abfa-106c763f3b1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Row2" bidirectional
+			(at 57.785 155.575 180)
+			(uuid "bdfadf6f-f1cc-419b-8199-ba7372d11e42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Row3" bidirectional
+			(at 57.785 158.115 180)
+			(uuid "b24b3cf3-7dad-4c73-b1d7-46ab237d3356")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
