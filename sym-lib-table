@@ -3,4 +3,5 @@
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "USB4085-GF-A_REVB")(type "KiCad")(uri "${KIPRJMOD}/symbols/USB4085-GF-A_REVB.kicad_sym")(options "")(descr ""))
+  (lib (name "DIP8_210-4_CTS")(type "KiCad")(uri "${KIPRJMOD}/symbols/DIP8_210-4_CTS.kicad_sym")(options "")(descr ""))
 )
