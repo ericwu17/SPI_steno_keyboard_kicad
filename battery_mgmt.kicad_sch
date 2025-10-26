@@ -2592,6 +2592,16 @@
 		)
 		(uuid "fdfb6459-6e4e-49da-9c71-05adf54cbda4")
 	)
+	(label "batt_pos"
+		(at 97.79 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2bbd9203-5d19-4528-8406-d1d3309b294d")
+	)
 	(label "HV_CHR"
 		(at 26.67 110.49 0)
 		(effects
@@ -2601,6 +2611,26 @@
 			(justify left bottom)
 		)
 		(uuid "7fffe369-56fb-447f-9e0e-a250dd79c87d")
+	)
+	(label "between_mosfets"
+		(at 185.42 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "98143c58-11b9-4114-8b03-17ac26c511fe")
+	)
+	(label "batt_neg"
+		(at 97.79 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa1c72a5-f663-476c-8cdc-2b327cf2955c")
 	)
 	(label "HV_CHR"
 		(at 99.06 43.18 90)

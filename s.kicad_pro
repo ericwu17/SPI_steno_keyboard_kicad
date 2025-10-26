@@ -499,6 +499,18 @@
       {
         "netclass": "Power",
         "pattern": "/VBUS"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/battery_mgmt/HV_CHR"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/battery_mgmt/batt_*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/battery_mgmt/between_mosfets"
       }
     ]
   },
