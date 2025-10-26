@@ -2948,7 +2948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DMG6968U-7:SOT95P240X110-3N"
+		(property "Footprint" "DMG6968U_7:SOT95P240X110-3N"
 			(at 167.64 116.84 0)
 			(effects
 				(font
@@ -3140,7 +3140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DMG6968U-7:SOT95P240X110-3N"
+		(property "Footprint" "DMG6968U_7:SOT95P240X110-3N"
 			(at 116.84 115.57 0)
 			(effects
 				(font
@@ -4017,7 +4017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 236.22 63.5 90)
 			(effects
 				(font
