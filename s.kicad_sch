@@ -3965,6 +3965,16 @@
 		)
 		(uuid "f96fddb7-7ecb-4d98-9721-176b2146cac2")
 	)
+	(label "UART_TX"
+		(at 201.93 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "07629f21-8eff-4034-979f-8d1ab784e510")
+	)
 	(label "matrix_c10"
 		(at 176.53 66.04 0)
 		(effects
@@ -4064,6 +4074,16 @@
 			(justify left bottom)
 		)
 		(uuid "353fc72a-0985-4d0e-b5d8-4d3ade79284d")
+	)
+	(label "UART_RX"
+		(at 201.93 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3fa46d70-7f3f-403d-bc2c-11f4e8f73b59")
 	)
 	(label "matrix_c1"
 		(at 134.62 71.12 0)
