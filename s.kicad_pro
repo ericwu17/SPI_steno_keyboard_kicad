@@ -617,6 +617,10 @@
     [
       "a812912f-b8b6-421b-ac40-d6794a05d4c4",
       "switch_matrix"
+    ],
+    [
+      "ca799660-53b5-478c-aa84-f24ff3444acf",
+      "battery_mgmt"
     ]
   ],
   "text_variables": {}

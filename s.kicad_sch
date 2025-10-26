@@ -3383,6 +3383,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 124.46) (xy 245.11 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6210ac78-6e08-41f0-899b-863c6793ff13")
+	)
+	(wire
+		(pts
 			(xy 251.46 67.31) (xy 256.54 67.31)
 		)
 		(stroke
@@ -4420,6 +4430,16 @@
 			(justify right bottom)
 		)
 		(uuid "c74addbd-e9d0-46f8-be77-ba6b11d16a21")
+	)
+	(label "VBUS"
+		(at 240.03 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cba889e5-4594-488d-8101-2d5651b96434")
 	)
 	(label "USB_D+"
 		(at 179.07 63.5 0)
@@ -7478,6 +7498,58 @@
 			(project "s"
 				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 245.11 111.76)
+		(size 13.97 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ca799660-53b5-478c-aa84-f24ff3444acf")
+		(property "Sheetname" "battery_mgmt"
+			(at 245.11 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery_mgmt.kicad_sch"
+			(at 245.11 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VBUS" bidirectional
+			(at 245.11 124.46 180)
+			(uuid "982f8412-17ec-4979-a7e1-6a8fb9775162")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "s"
+				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
+					(page "3")
 				)
 			)
 		)
