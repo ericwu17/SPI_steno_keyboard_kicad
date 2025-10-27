@@ -162,7 +162,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "02e60f02-6992-48a4-a9da-cd8fae1be5bd")
-		(at 122.2375 119.85625)
+		(at 111.379 -21.9964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW22"
@@ -170,7 +170,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a1018dfa-7bee-414a-9169-d2cbb7a454e1")
+			(uuid "544be03f-9090-4140-be32-97d742bd28d1")
 			(effects
 				(font
 					(size 1 1)
@@ -183,7 +183,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e78f47ab-a91f-4787-acc6-f596cd2df0d1")
+			(uuid "9ebc8364-8630-404b-9c1c-2c131e2b06da")
 			(effects
 				(font
 					(size 1 1)
@@ -195,7 +195,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c181272e-f1c1-4b04-9674-2e83356bd8b9")
+			(uuid "bbb828c4-6ba1-4a0e-b005-60034729a02e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -207,7 +207,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "34a99244-9547-4e79-836f-4e03ec1609d8")
+			(uuid "81120832-f9ee-41ed-9a81-1901d20472ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1586,7 +1586,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "09e734f5-2c31-44a0-96d4-27aee8f3a569")
-		(at 217.4875 75.40625)
+		(at 206.629 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW9"
@@ -1594,7 +1594,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "da8527e3-b750-4311-bae0-3ced0a1b1db5")
+			(uuid "4648fd87-9c5d-4de3-ba1b-cd20223f0efc")
 			(effects
 				(font
 					(size 1 1)
@@ -1607,7 +1607,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d0201072-dddf-480e-8e84-955f5a59f331")
+			(uuid "6f7fc2df-ebc4-4b48-ac8b-be6698a888fa")
 			(effects
 				(font
 					(size 1 1)
@@ -1619,7 +1619,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d079279d-8cf0-43af-a28a-b013eb5b4e21")
+			(uuid "c74272ad-fd26-43f4-9f8e-820164f3da03")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1631,7 +1631,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f120740-ff77-4902-9df7-11470db2b687")
+			(uuid "325d5116-a4d4-4f21-9a3a-c78800804309")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1937,7 +1937,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "1e3d3352-7dc9-49bf-b013-334448da1017")
-		(at 179.3875 94.45625)
+		(at 168.529 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW17"
@@ -1945,7 +1945,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b6db6eeb-3c7f-4fba-9374-d65defb2f1aa")
+			(uuid "db5a26ea-290a-4963-b702-79ee6588be65")
 			(effects
 				(font
 					(size 1 1)
@@ -1958,7 +1958,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f579bbbc-45d8-42d4-a18b-6281a39ed9b6")
+			(uuid "653e1bac-e301-4fbb-a28b-d727d116ba4f")
 			(effects
 				(font
 					(size 1 1)
@@ -1970,7 +1970,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f948ada4-77f4-47b2-858e-8793e0eb7667")
+			(uuid "8ae2eddc-6604-4da8-a0e3-51fdf8328d4d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +1982,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f826c660-3b2b-46c5-8e18-f17ae6c5c84a")
+			(uuid "c4f9640f-bd3f-4390-8f41-1a7fc564f90a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2522,7 +2522,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "2e18d477-82d7-4ad1-9ba0-65c91f7e3103")
-		(at 141.2875 75.40625)
+		(at 130.429 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW5"
@@ -2530,7 +2530,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5b4bc8ea-4baf-4f7d-9ec2-9058f7883932")
+			(uuid "d6c45af7-a1fb-4e9a-8db8-b27c646455f4")
 			(effects
 				(font
 					(size 1 1)
@@ -2543,7 +2543,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7a00d38-019e-4c9a-b698-f108f06deab0")
+			(uuid "35c600b6-d197-4534-8b56-f6f410bf640c")
 			(effects
 				(font
 					(size 1 1)
@@ -2555,7 +2555,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15e10147-b47f-4a12-b6de-e56deafb8480")
+			(uuid "869332ad-3526-4d9a-8457-588ad4f33e83")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2567,7 +2567,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8f996bf-023b-461b-a85d-0cb38716f100")
+			(uuid "08762a9e-f019-4fac-a419-ea2e2e1c3110")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,7 +3137,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "2f7e4bcb-527a-4cf3-bcf3-d38da6689df7")
-		(at 179.3875 75.40625)
+		(at 168.529 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW7"
@@ -3145,7 +3145,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8bb95932-f478-4d04-8b1e-013e032668e9")
+			(uuid "17a257ea-1fe7-4e32-9b76-f87662618082")
 			(effects
 				(font
 					(size 1 1)
@@ -3158,7 +3158,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c605de2f-9372-45c0-ac33-9a3b7b685e8d")
+			(uuid "a8b226d1-85a2-4d7d-8024-621478cdf150")
 			(effects
 				(font
 					(size 1 1)
@@ -3170,7 +3170,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0c1c407-3aaa-4824-945f-ca48b5b32e60")
+			(uuid "1b1d491b-9d64-4f25-96cd-51a8c7441e6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3182,7 +3182,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc9b656f-c933-4dbd-8b0f-951e6b0a359e")
+			(uuid "5db4cca9-d2ef-4452-a659-6e048ca29a60")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3488,7 +3488,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "37832bcf-1583-42d5-bc93-b25fbfedda59")
-		(at 160.3375 75.40625)
+		(at 149.479 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW6"
@@ -3496,7 +3496,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "cac408de-0176-4e84-9377-494bfc00385e")
+			(uuid "63c1465d-5e51-41b7-afa3-473202af7801")
 			(effects
 				(font
 					(size 1 1)
@@ -3509,7 +3509,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d3d15a1-b8b4-4f7a-937d-24d7bb337633")
+			(uuid "2b5feca2-bea5-4e8d-9fea-069cc4023d70")
 			(effects
 				(font
 					(size 1 1)
@@ -3521,7 +3521,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "271cdb25-9ba2-47d8-80b4-6f779a213050")
+			(uuid "6ddd5f81-1890-4a66-a047-99de180097a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3533,7 +3533,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "424fe034-9081-41c4-9710-7eaa18e4199d")
+			(uuid "72b2ee94-2e81-467e-a4bd-13751ceb8f9b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3839,7 +3839,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "40dd0bf1-cb79-401e-a6d0-aea1a5f0060c")
-		(at 84.1375 94.45625)
+		(at 73.279 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW12"
@@ -3847,7 +3847,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9fecd04b-f2dd-40fe-b9e7-3d9d96744abf")
+			(uuid "52a06126-cf28-4716-9776-2d8608eb5a52")
 			(effects
 				(font
 					(size 1 1)
@@ -3860,7 +3860,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2bf9ab33-f51c-4201-83f4-80e8bc0494de")
+			(uuid "909b370f-829f-41f3-ab88-6e3fd01978f3")
 			(effects
 				(font
 					(size 1 1)
@@ -3872,7 +3872,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c1d19cad-9afd-478d-a4b1-4779e46ffe0b")
+			(uuid "64eabd88-1901-4299-b7a5-9707ac8fc4df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,7 +3884,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0987332e-28c2-4afd-b348-f321c42b7b25")
+			(uuid "1cad4a09-6048-47d7-8f8a-07e8826a8c53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4424,7 +4424,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "4748d5d1-92de-40ef-a62d-b1953846beeb")
-		(at 103.1875 75.40625)
+		(at 92.329 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW3"
@@ -4432,7 +4432,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "c900d7fa-0604-4da7-aae9-d292a8b01a00")
+			(uuid "6c70f1f3-5a1f-4466-8467-70fb86f462be")
 			(effects
 				(font
 					(size 1 1)
@@ -4445,7 +4445,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df128315-b0b4-41ea-aecc-53ee39d58a21")
+			(uuid "ae37eb9e-c434-4c86-8af3-53253a54c50a")
 			(effects
 				(font
 					(size 1 1)
@@ -4457,7 +4457,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "063cce8c-10e2-4f5c-9f46-5f0a78ca25c5")
+			(uuid "bcbcb059-15a9-4928-b9c9-9441e1143338")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,7 +4469,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0bb609da-be0c-4560-9c15-e870c24fea53")
+			(uuid "3e9fb7b3-2f74-4e2f-81e3-dee6ebd7655d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4775,7 +4775,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "479217cf-c975-42eb-8681-d6073ffdcc41")
-		(at 122.2375 75.40625)
+		(at 111.379 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW4"
@@ -4783,7 +4783,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "4ed10cab-f3ac-4dd7-a367-e9630153e1a3")
+			(uuid "28aa6fc0-a24e-4602-a672-7dc3363491b5")
 			(effects
 				(font
 					(size 1 1)
@@ -4796,7 +4796,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c44bdd25-9eea-4c3f-82af-61fdcacd76a9")
+			(uuid "bff3feb6-5442-4f3e-a657-6f9a141518d5")
 			(effects
 				(font
 					(size 1 1)
@@ -4808,7 +4808,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aae55771-be7d-4542-b5b5-643d1f0fee5c")
+			(uuid "b6f34cf1-45a5-41d7-982a-2d3b0e81c5f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4820,7 +4820,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7b64c4fd-09ee-453d-901b-a8031470f282")
+			(uuid "82cd4066-fa5b-47ee-930c-ac8c7857400e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +5126,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "49cd082e-cffd-49ca-9280-6c13a82b9ff9")
-		(at 179.3875 119.85625)
+		(at 168.529 -21.9964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW25"
@@ -5134,7 +5134,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "6c55324d-d0eb-4618-86d7-c58a6c2ba3a8")
+			(uuid "39e4a8e6-0f88-4bff-9d88-e449e05f7215")
 			(effects
 				(font
 					(size 1 1)
@@ -5147,7 +5147,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e11e1842-8b3b-440f-bfaa-58e330c9040e")
+			(uuid "79c177b9-d11e-4db2-98c3-da137bd2fbad")
 			(effects
 				(font
 					(size 1 1)
@@ -5159,7 +5159,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5622a47f-b2ee-4639-9f2c-f7a13f7a1f08")
+			(uuid "5786c929-2a25-48f5-8daa-6249a4e8105f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5171,7 +5171,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58fc863a-48cf-4c32-8319-228ff2413af3")
+			(uuid "f01a31bf-5fef-43ce-bf59-e3e7753b30d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +5752,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "5bcfa2ba-3768-40a9-9c0f-1873743dbd9f")
-		(at 84.1375 75.40625)
+		(at 73.279 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW2"
@@ -5760,7 +5760,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "56a4b382-1e93-4b52-a859-6930f80254d4")
+			(uuid "9879c055-ccea-4bb0-887e-189344fe79f3")
 			(effects
 				(font
 					(size 1 1)
@@ -5773,7 +5773,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca650f6a-15c6-41d1-a5c5-f41cc86ae47d")
+			(uuid "8899aa0b-8afa-4cf5-a1d1-14d13e79ce81")
 			(effects
 				(font
 					(size 1 1)
@@ -5785,7 +5785,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ebbc8205-8ce5-4fa8-9339-c4f840748972")
+			(uuid "89b7899e-721c-4928-a394-5c9f5c599822")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5797,7 +5797,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7fc761d-fa8b-4030-8829-78f965baa46b")
+			(uuid "3b719c2f-f97e-4b9a-a706-3d7059f05218")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6103,7 +6103,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "63da4266-5cc9-4689-934d-04feaf157b2b")
-		(at 103.1875 94.45625)
+		(at 92.329 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW13"
@@ -6111,7 +6111,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "7f6c0886-19b7-4f72-8b5b-5c06948700ee")
+			(uuid "71ed3827-9d81-4532-b009-6dd6dd7ddd92")
 			(effects
 				(font
 					(size 1 1)
@@ -6124,7 +6124,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8f35175-3095-44c3-9d1f-95d24761f6ba")
+			(uuid "7b3aa85f-b717-4a8b-925a-c994e4b9fb5f")
 			(effects
 				(font
 					(size 1 1)
@@ -6136,7 +6136,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55c8ea21-3b04-4d96-a9e5-b9513a482637")
+			(uuid "ded03097-a213-4523-95aa-8abb702fa0a1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6148,7 +6148,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1779350d-4dda-4a19-84d3-b3644bbad5a4")
+			(uuid "0213b69c-7c91-4e2c-a9eb-b34eff6412a3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6454,7 +6454,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "681421d4-0f44-4933-bda1-72ca313cc354")
-		(at 103.1875 119.85625)
+		(at 92.329 -21.9964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW21"
@@ -6462,7 +6462,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "6826a0c4-3321-4f57-8725-9a4c04419605")
+			(uuid "ae04f49a-e661-4c76-a4bc-4ca4779fd763")
 			(effects
 				(font
 					(size 1 1)
@@ -6475,7 +6475,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7faac629-66f3-42d6-94b4-a0b162bdd263")
+			(uuid "f864dad3-ed21-4729-8d83-7dbf618328f6")
 			(effects
 				(font
 					(size 1 1)
@@ -6487,7 +6487,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e20956b-a41f-4c24-bdd3-cc67c6083b1d")
+			(uuid "9a92cf33-5553-4641-8d81-66178906e06f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6499,7 +6499,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b6d8cb7-6d92-423b-a6c8-cce5e1e4300c")
+			(uuid "b156d2ce-c742-448a-9117-33d9654d51d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6805,7 +6805,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "737e9a8c-48a5-4b73-a8ae-1ea66443c75c")
-		(at 198.4375 75.40625)
+		(at 187.579 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW8"
@@ -6813,7 +6813,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a6710e01-541f-477d-a76d-664cdd0a86b0")
+			(uuid "bb4bbc47-9fe6-48cb-84ea-1d438de55859")
 			(effects
 				(font
 					(size 1 1)
@@ -6826,7 +6826,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aefda998-704c-4f58-983a-bccb5d64b1cd")
+			(uuid "347b6eb2-0eeb-477f-96f3-61bb9db33e3b")
 			(effects
 				(font
 					(size 1 1)
@@ -6838,7 +6838,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81e2cafd-c6ca-492e-8147-0798fabd2f93")
+			(uuid "5b377bb1-122f-4f67-a22f-625091cdf019")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6850,7 +6850,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c07f3595-786a-4a56-8418-eb5352f3ea64")
+			(uuid "c3280802-6cce-482e-b9a9-7b1ea01482c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7355,7 +7355,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "8d9d0bd6-a475-42d8-8230-0f4b62223fe0")
-		(at 217.4875 94.45625)
+		(at 206.629 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW19"
@@ -7363,7 +7363,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "27807b90-3c17-422a-b74c-8c50859f057f")
+			(uuid "5be9a647-52ea-490d-a11d-4e5c09328a22")
 			(effects
 				(font
 					(size 1 1)
@@ -7376,7 +7376,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1312aa0c-0478-47c9-a016-4e451824845a")
+			(uuid "0e453746-ffca-4b2e-99e8-75b632076044")
 			(effects
 				(font
 					(size 1 1)
@@ -7388,7 +7388,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "441de3ae-89fc-464f-8386-67849f80f9a2")
+			(uuid "8d7ec518-da24-44ee-bef7-21f339469c0d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7400,7 +7400,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e05d6131-ccda-4ff0-8b20-8a87d4b9a5bf")
+			(uuid "4f4b6801-7e97-4727-91cc-820edfeee7bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7905,7 +7905,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "a26c8348-6535-4e6e-a030-4489b5547e11")
-		(at 65.0875 94.45625)
+		(at 54.229 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW11"
@@ -7913,7 +7913,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "2dfd840a-80c3-446e-a1c6-93d8fec8b6b5")
+			(uuid "a4bcb498-4725-47f9-9ee0-c49b8715625a")
 			(effects
 				(font
 					(size 1 1)
@@ -7926,7 +7926,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17e495f3-8915-432c-b8d0-793eb98ebf9e")
+			(uuid "0b03f678-4311-4749-9fdb-7688ba38b1fb")
 			(effects
 				(font
 					(size 1 1)
@@ -7938,7 +7938,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "af19b269-ebaf-4b48-a801-218996365b6f")
+			(uuid "6be7e42b-aee1-4233-9bc4-d36e99193cb1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7950,7 +7950,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb4fba92-795e-46df-a8a7-dbe14b0493fc")
+			(uuid "9e69422b-eee0-424c-897e-f488a68ad813")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8256,7 +8256,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "a3b0bbdf-787b-4ac2-b1ff-dcd8ee192fe0")
-		(at 122.2375 94.45625)
+		(at 111.379 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW14"
@@ -8264,7 +8264,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "43978a53-b845-4802-af6b-3944fc3790df")
+			(uuid "b1f6cfdc-e1c3-4110-a95b-e8caadb38ecb")
 			(effects
 				(font
 					(size 1 1)
@@ -8277,7 +8277,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c50c91d7-2fd2-4b4e-9831-e3d9154ba81b")
+			(uuid "c3e47ddb-5c75-4118-bc25-1939bf0cc871")
 			(effects
 				(font
 					(size 1 1)
@@ -8289,7 +8289,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "015ce784-6fe8-40d3-b433-dece38b1501d")
+			(uuid "718e042f-65c5-4eb8-9788-6128eda77e7c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8301,7 +8301,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "060f9ef8-bbfa-4272-8d5d-01fbe51b9aa4")
+			(uuid "aa3e108d-87ed-4e87-9e4b-035197a199bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8841,7 +8841,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "aceae353-6ffa-408c-bcf7-d09a9c3c4e5a")
-		(at 65.0875 75.40625)
+		(at 54.229 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW1"
@@ -8849,7 +8849,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "2e875826-f0fa-49e7-9887-5f890b73b96e")
+			(uuid "e6e3473a-14f9-4f52-8a9a-b1e4421005a1")
 			(effects
 				(font
 					(size 1 1)
@@ -8862,7 +8862,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "12bcc88f-41f1-45b9-bc74-3fa87d3b0b2c")
+			(uuid "85b66d08-a96b-4619-bdbd-4b713e7e2849")
 			(effects
 				(font
 					(size 1 1)
@@ -8874,7 +8874,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "669f0981-da90-4210-a9ef-92382617dd44")
+			(uuid "200c7af8-e225-4cc2-be00-2d9922f48f66")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8886,7 +8886,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9da95aa3-9115-48a0-9acd-5a86376bc451")
+			(uuid "0c974e21-4c13-4ae5-b182-9700c02f5493")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9192,7 +9192,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "bb064589-2400-4a1b-95c3-76af2b485e44")
-		(at 236.5375 75.40625)
+		(at 225.679 -66.4464)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW10"
@@ -9200,7 +9200,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "0e1a24a2-f9e8-43d1-a4a9-31af30f7e5f5")
+			(uuid "d7b2ed73-5764-4ac0-ac2b-1598af123f90")
 			(effects
 				(font
 					(size 1 1)
@@ -9213,7 +9213,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3e4ab83-adc3-4000-9633-50a2d7953984")
+			(uuid "aebf3f25-a7cf-449d-a68f-61e79dfd03c5")
 			(effects
 				(font
 					(size 1 1)
@@ -9225,7 +9225,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1e6bd0d-5861-4760-8ea8-db0be9dc0fcd")
+			(uuid "2b8f5e6b-4f61-413c-802e-71f286294123")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9237,7 +9237,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35499a23-ef8e-41e2-abe8-c2b1703f1cf3")
+			(uuid "95803fe1-d6e1-446c-a45a-31c915575e31")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9543,7 +9543,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "c2768db6-1e12-4236-9a72-b3e178f5efc2")
-		(at 160.3375 119.85625)
+		(at 149.479 -21.9964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW24"
@@ -9551,7 +9551,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "2dd33296-6cf1-40e2-b035-3051b55ea49a")
+			(uuid "981808a7-af8c-4ef0-85ee-38f7506b1061")
 			(effects
 				(font
 					(size 1 1)
@@ -9564,7 +9564,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d8deccf-e61c-4559-8b69-48429b516987")
+			(uuid "9f7b0c13-b208-49af-91bd-07b722ff6fc8")
 			(effects
 				(font
 					(size 1 1)
@@ -9576,7 +9576,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d0358612-0983-472d-ab03-0d4cb647494f")
+			(uuid "2026988a-1aa2-4eb5-8b92-b7f778d15f3c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9588,7 +9588,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a18c7393-c6d4-4a62-b7fc-a97b7070138d")
+			(uuid "a8223a1a-8695-49e9-8dab-320a5e3e2f1d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9894,7 +9894,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "c7b6f545-250b-4797-bf29-0a7b89b7970b")
-		(at 141.2875 119.85625)
+		(at 130.429 -21.9964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW23"
@@ -9902,7 +9902,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bee6c803-3936-4cf4-ad31-33dbbf0ed0e5")
+			(uuid "82ceca94-ae11-476f-b440-c0d21fde8514")
 			(effects
 				(font
 					(size 1 1)
@@ -9915,7 +9915,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c99c449a-53f3-4ca6-a9df-f919f10cfff9")
+			(uuid "0ba02531-cb7d-4d35-875f-633862841b7d")
 			(effects
 				(font
 					(size 1 1)
@@ -9927,7 +9927,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c97f25a6-d655-41be-85ea-b97406b83f55")
+			(uuid "20f89732-c129-4bd9-a075-207507001c27")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9939,7 +9939,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "34358405-0071-4708-8e84-2fe8adf45261")
+			(uuid "078bcdc4-a541-442c-9aec-eed1bb3f7feb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10245,7 +10245,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "d949417b-aaf9-4b68-b5f6-8f1bd8c53f99")
-		(at 160.3375 94.45625)
+		(at 149.479 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW16"
@@ -10253,7 +10253,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a5effd9c-00ec-4395-b201-64a83de745ac")
+			(uuid "f5806ba1-8f5e-455c-89ca-1c9f2a046b30")
 			(effects
 				(font
 					(size 1 1)
@@ -10266,7 +10266,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f3b37b94-84e8-4887-81ae-9d6ad6ca878c")
+			(uuid "d831e369-8224-485c-a34d-acc7249b655a")
 			(effects
 				(font
 					(size 1 1)
@@ -10278,7 +10278,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7f9aa8a5-1cba-4f3c-8df1-74bec2c93bac")
+			(uuid "0502b8bc-470d-4c89-af76-9dd0bd5dfa53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10290,7 +10290,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e1d241a2-b021-4825-9a77-270356f3a758")
+			(uuid "22605734-7e73-4837-91b1-4813b7e5f7a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10596,7 +10596,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "e79a82fc-cacf-438d-b146-864e1de0327d")
-		(at 141.2875 94.45625)
+		(at 130.429 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW15"
@@ -10604,7 +10604,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bfb853c5-c971-4908-8b0c-4f7b905a2a86")
+			(uuid "48a056f8-0699-4494-922e-f2f825581dcd")
 			(effects
 				(font
 					(size 1 1)
@@ -10617,7 +10617,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2ba7f3c-b7d7-4c24-869c-05b368c62395")
+			(uuid "a4cfd30e-c9c4-4826-a35e-7352123378b2")
 			(effects
 				(font
 					(size 1 1)
@@ -10629,7 +10629,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70ee499a-1337-48ca-bf92-1b50cd005eb2")
+			(uuid "8f2de9c0-70d0-4040-9fdd-74b411809158")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10641,7 +10641,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67446b91-d5c6-4167-849f-b736a88e1769")
+			(uuid "80444b5f-ba5e-4b58-b38f-7fc18d98b75a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10947,7 +10947,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "e81d3a5d-a1e8-4bc2-9e5b-08356d1a5803")
-		(at 198.4375 94.45625)
+		(at 187.579 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW18"
@@ -10955,7 +10955,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bdfb70b7-7d59-4916-a952-4b92a839c6cb")
+			(uuid "0207e0a4-a531-4c1a-bc4e-2e9768aa5be3")
 			(effects
 				(font
 					(size 1 1)
@@ -10968,7 +10968,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "960898ce-d52a-4999-90bf-034136d0677d")
+			(uuid "78e5c61b-de48-46f0-be9b-2ffbdf2a78eb")
 			(effects
 				(font
 					(size 1 1)
@@ -10980,7 +10980,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc7104d8-1862-47c3-9560-8b9930c47464")
+			(uuid "389eea19-4917-409f-8e4f-b068ad0ad108")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10992,7 +10992,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "05f8e198-51fb-4353-b4f2-c80cda8a2487")
+			(uuid "756d8486-7df8-4f5c-af24-7cec738a1000")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11298,7 +11298,7 @@
 	(footprint "key-switches:SW_Kailh_Choc_V1_THT"
 		(layer "F.Cu")
 		(uuid "efeab315-82bb-4b53-8fdf-fb9cd817bd69")
-		(at 236.5375 94.45625)
+		(at 225.679 -47.3964)
 		(descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW20"
@@ -11306,7 +11306,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9d96fd8a-d797-4cb1-8a1e-95d135f79cca")
+			(uuid "761d9b36-fdd0-47f2-8fb5-985de4ff38fa")
 			(effects
 				(font
 					(size 1 1)
@@ -11319,7 +11319,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b422ecc-cecf-4bdf-93ee-d094c04ac639")
+			(uuid "58f1f1bc-c585-4d43-90a4-1e62dc2f9090")
 			(effects
 				(font
 					(size 1 1)
@@ -11331,7 +11331,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43646a38-ebeb-464c-8cea-70b1dac3b961")
+			(uuid "b1ac324a-a723-4d55-a774-c900d3b73a35")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11343,7 +11343,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c61186bd-22d3-48f3-affc-7ded9c63b84d")
+			(uuid "690a70b6-43e1-43e1-af64-60b0bea62160")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11649,13 +11649,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "1be08d66-b047-4efa-a2a9-9c88e85a1322")
-		(at 229.39375 78.58125 90)
+		(at 218.53525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D10"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "d9d74df1-89a2-470f-a9dd-c54896675cca")
+			(uuid "c52a82f1-1c21-430b-8211-2435e6c8d0e9")
 			(effects
 				(font
 					(size 1 1)
@@ -11667,7 +11667,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "8d6c724e-6c2c-4518-9d52-15d8fa97fe4f")
+			(uuid "e456705f-ba74-4d18-92e8-14fac24057f3")
 			(effects
 				(font
 					(size 1 1)
@@ -11681,7 +11681,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c77ada8a-a77b-4f88-8bb1-e7768f488dd0")
+			(uuid "bba5256b-5800-4712-a0c5-667488959fd7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11695,7 +11695,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c72e4638-a0f3-4317-80aa-5332370ec997")
+			(uuid "11c4def3-3aa5-44e1-b05b-c45239e34710")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11955,13 +11955,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "218c8e90-fe0e-476e-804d-e78983ecf804")
-		(at 115.09375 78.58125 90)
+		(at 104.23525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D4"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "8f9c0146-2f73-4678-879c-08af22e84997")
+			(uuid "c4570fec-14b2-4315-906e-b15d0f9e398b")
 			(effects
 				(font
 					(size 1 1)
@@ -11973,7 +11973,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "41cc55bd-53d2-4e6d-a883-f73c69708ec2")
+			(uuid "04b02c23-4fcc-4cc0-9c9d-d03b70422a7c")
 			(effects
 				(font
 					(size 1 1)
@@ -11987,7 +11987,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e8c7522e-9884-4d35-bf26-20c16a111528")
+			(uuid "05ebe3ad-68bf-46e7-9987-f79b09ec4d85")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12001,7 +12001,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8966f5d8-7c3b-4eec-95f8-be9e4b291bc1")
+			(uuid "eeff22e6-aef7-4a36-b5a0-b2f94c3129d5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13112,13 +13112,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "42a75781-2a15-4a1b-8e4a-70d0b520e684")
-		(at 96.04375 78.58125 90)
+		(at 85.18525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D3"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "2bf56675-ed8d-4da7-9776-3653b385a0e8")
+			(uuid "6dae910b-b88b-438a-8172-d7ab499b0e73")
 			(effects
 				(font
 					(size 1 1)
@@ -13130,7 +13130,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "dd98270b-3a31-43ae-b6b2-9b0ac255b081")
+			(uuid "5a1f5a62-8618-4d4d-9e8b-d6319621df77")
 			(effects
 				(font
 					(size 1 1)
@@ -13144,7 +13144,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c4abcde2-5216-45b4-be47-3eb9805b3736")
+			(uuid "edfb3d29-c1f4-4726-9e99-52bd19a321c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13158,7 +13158,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a0fd36b4-2564-4220-8258-b8033ad4ccbe")
+			(uuid "d67496bc-ccc5-46b2-b4c8-73838aba0987")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13826,13 +13826,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "4f22f884-972e-493c-8f03-6a1bc415fdeb")
-		(at 96.04375 97.63125 90)
+		(at 85.18525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D13"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "01011a83-6b7d-4f8d-9fc3-e39431f96ed6")
+			(uuid "9eea405d-8151-4b22-9a6a-73fae8e1f602")
 			(effects
 				(font
 					(size 1 1)
@@ -13844,7 +13844,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "b87af002-5a4d-4922-b85d-b16a4395a7a1")
+			(uuid "493f96f4-00f6-4e5e-b936-0734cb37464d")
 			(effects
 				(font
 					(size 1 1)
@@ -13858,7 +13858,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "42c38e00-0301-47cb-b563-fe3cbf9d12fe")
+			(uuid "f5d780af-8d61-49c0-812b-686fbd0b5e5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13872,7 +13872,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "daff3079-e5d8-4528-8b15-9fbe7a1f1d04")
+			(uuid "6c4a4b97-c8bd-4cc7-af59-4b4bac9f8ac9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14132,13 +14132,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "4faaf57d-22a6-4f7f-8ac7-610b5b88a7d5")
-		(at 153.19375 78.58125 90)
+		(at 142.33525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D6"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "c3eea910-d055-46d4-8b94-a4c99482aa1d")
+			(uuid "5e4c7aa7-0626-4bd7-85c7-a87aa5dd0581")
 			(effects
 				(font
 					(size 1 1)
@@ -14150,7 +14150,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "f0a36f4b-0c3a-43a0-ab0a-55b589d31361")
+			(uuid "eee3fdd3-4585-4171-a750-ecbeba314a6a")
 			(effects
 				(font
 					(size 1 1)
@@ -14164,7 +14164,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "acb44bfd-5e76-492a-afc9-988e5b50983b")
+			(uuid "ac03887a-0f0d-4ffc-abf5-a260d619912e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14178,7 +14178,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9dbdbfaf-3533-4611-883b-ea553a51aec3")
+			(uuid "94e8eecd-ab2b-4133-afcd-89b9034568df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14630,13 +14630,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "5863afbf-528a-4f1d-b79a-87a014752c1a")
-		(at 134.14375 78.58125 90)
+		(at 123.28525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D5"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "4d91556c-6b2f-4e20-942b-6594f70cca2f")
+			(uuid "cb22bdb8-2a06-41e2-ae7a-94119882d5f5")
 			(effects
 				(font
 					(size 1 1)
@@ -14648,7 +14648,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "d00daff6-f009-440e-8e83-e7f81e5744fb")
+			(uuid "ec83d6c2-2e66-4aef-b6b6-eedeb19b5cfb")
 			(effects
 				(font
 					(size 1 1)
@@ -14662,7 +14662,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b05321a1-7343-4680-a668-b96dedfd9180")
+			(uuid "a779f2aa-3bd6-4e03-9a55-a390e2380676")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14676,7 +14676,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8d4e7934-9005-411a-9f85-706e23f9dffd")
+			(uuid "be5a4048-976a-4bf7-bf9b-c8d346289d92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14936,13 +14936,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "59a2392e-b2ea-43cb-bc9b-6cecb4eed17e")
-		(at 153.19375 109.5375 -90)
+		(at 142.33525 -32.31515 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D24"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "ea5ba4c9-afd0-4c64-8634-6fbcb34ae49b")
+			(uuid "01c73587-a114-4c82-8420-8644733ef7f2")
 			(effects
 				(font
 					(size 1 1)
@@ -14954,7 +14954,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "3cdad5d2-f352-4ab1-96ff-24933eac83e2")
+			(uuid "9bb584d6-7cb2-4702-8d7f-2accf0f9844b")
 			(effects
 				(font
 					(size 1 1)
@@ -14968,7 +14968,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "220478a9-b114-4398-a664-d97bd89621ea")
+			(uuid "fffa50db-841a-47ea-8248-578541dd628c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14982,7 +14982,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4d1bdccb-d021-4a7a-978e-6e4bce48757b")
+			(uuid "f195a41a-6d46-4cca-9926-7e740b627a90")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15797,13 +15797,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "5b8c3bfe-3bd5-496a-b36a-31797db9fb8f")
-		(at 210.34375 97.63125 90)
+		(at 199.48525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D19"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "3c135895-421c-4f3f-9872-5c9c5520aaed")
+			(uuid "7c935a62-7800-468d-be2f-fa647d3b7ac2")
 			(effects
 				(font
 					(size 1 1)
@@ -15815,7 +15815,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "576ab2d7-c1e7-49f5-a0e6-43f62a1fa533")
+			(uuid "c6512dcd-08f2-4c62-9e9a-f313fc538009")
 			(effects
 				(font
 					(size 1 1)
@@ -15829,7 +15829,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "237a1f76-0835-4b35-b258-8b12b492eb75")
+			(uuid "58812aed-aa65-4834-ba26-e227a36b634e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15843,7 +15843,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fcb92802-bf23-4983-8f3e-dd5606591abf")
+			(uuid "4cb6d903-3730-40e7-a635-106e4f4b6e11")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16103,13 +16103,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "5c1d6635-f4fb-421e-b61d-5151cd6e5021")
-		(at 172.24375 109.5375 -90)
+		(at 161.38525 -32.31515 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D25"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "89998949-2bc9-4562-8c3e-1e5545e66afc")
+			(uuid "7fb7b7ac-031b-40f0-b1c8-2835b6c19ba2")
 			(effects
 				(font
 					(size 1 1)
@@ -16121,7 +16121,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "487bf619-4a92-4e48-9afb-8bac29638a46")
+			(uuid "8c6b0cc1-0cd1-4149-860c-682c59929902")
 			(effects
 				(font
 					(size 1 1)
@@ -16135,7 +16135,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "65e01d54-47d7-4421-8bca-049616a212af")
+			(uuid "6a471755-1ffd-413e-b304-4e4ca5ff1978")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16149,7 +16149,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "344c9e8b-b302-4cbf-81d6-82ceeaae4ba6")
+			(uuid "4c8e2d63-ec43-4f4c-9606-6075e4988942")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16679,13 +16679,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "67565b49-db0f-44e2-8957-86cbbfae2d5f")
-		(at 96.04375 109.5375 -90)
+		(at 85.18525 -32.31515 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D21"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "3b07f90b-9bd6-4a14-aada-8dac2db16f93")
+			(uuid "45e6dcf8-a839-4de1-9366-2269b0a45965")
 			(effects
 				(font
 					(size 1 1)
@@ -16697,7 +16697,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "68d5b409-5b4c-4580-992d-2ff063821934")
+			(uuid "ec1010b8-1930-4867-9a6a-dd92f040d6ff")
 			(effects
 				(font
 					(size 1 1)
@@ -16711,7 +16711,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "43058766-522e-48ce-a609-63683076ef79")
+			(uuid "9d47a29d-a051-4e32-976c-9b70d97af73c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16725,7 +16725,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c5a3a9d5-8b73-41d1-a6b6-1f722c25c9a2")
+			(uuid "15a3d1c2-a9bb-4df9-a3d0-cfa14d16ef6e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18331,13 +18331,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "7d4adc70-b8b9-4496-bd78-a07bbe14aa3c")
-		(at 76.99375 78.58125 90)
+		(at 66.13525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D2"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "436fac90-d998-4a0d-b410-e1584ceedded")
+			(uuid "18000a16-76a7-4d85-adb7-05edaa8e6664")
 			(effects
 				(font
 					(size 1 1)
@@ -18349,7 +18349,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "890ae0a3-c3a9-45c9-ab55-716d262fb6a7")
+			(uuid "7287d552-b1f7-44b0-8db2-6a39e8be0362")
 			(effects
 				(font
 					(size 1 1)
@@ -18363,7 +18363,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c001b143-bb6a-47d9-94b9-76e8acebe595")
+			(uuid "31d4972f-c028-4a82-93f2-bdc613b495db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18377,7 +18377,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4742ede6-72f7-4958-b812-a3a4132c696f")
+			(uuid "47ce6c56-9509-498f-84a9-005dfdc9e33f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19111,13 +19111,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "83e9d26b-3c7d-4181-b127-25a364812585")
-		(at 172.24375 97.63125 90)
+		(at 161.38525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D17"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "9fbc6e69-32a2-41e0-abd9-13bd6a917fc3")
+			(uuid "04170663-2fc3-4bb3-bc69-4aa43ccf8aff")
 			(effects
 				(font
 					(size 1 1)
@@ -19129,7 +19129,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "fead967f-3ab4-4e81-abc3-cfcb2b264d93")
+			(uuid "c3626ad3-9c11-4826-8d79-cbd99c058f0b")
 			(effects
 				(font
 					(size 1 1)
@@ -19143,7 +19143,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2f851b2f-51dd-4c0d-b009-9ce00052a2e6")
+			(uuid "61f3204b-91f2-4820-9ddd-3e287920e866")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19157,7 +19157,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ac364fa2-e0c0-4093-ad91-2012ce3216d0")
+			(uuid "4cb90470-0639-4dfd-b303-fb3f3270b602")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19825,13 +19825,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "90ebfb6d-47ae-4c97-91e9-1353202c84ff")
-		(at 153.19375 97.63125 90)
+		(at 142.33525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D16"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "0188b839-5858-481e-96c9-7a20f8238065")
+			(uuid "211dc79e-9d7f-46dd-bce7-3218e915935a")
 			(effects
 				(font
 					(size 1 1)
@@ -19843,7 +19843,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "8fb1a878-a887-4eab-bf09-55540f235103")
+			(uuid "37d21c39-a59c-48ce-8ca5-eb3847d10102")
 			(effects
 				(font
 					(size 1 1)
@@ -19857,7 +19857,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "043f7728-1348-42ff-b5fd-eba84ba0e756")
+			(uuid "66a6efcf-b525-46ad-be27-2ab90e640d4f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19871,7 +19871,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "97496d0c-b505-4ff5-936d-0d3dd77786f9")
+			(uuid "086e8f22-b60e-4ef7-9e50-c5f1cfb254a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20470,13 +20470,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "96287352-34f3-4dfb-a7c1-d31c00f3a2fd")
-		(at 191.29375 97.63125 90)
+		(at 180.43525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D18"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "e83c88b8-3c75-4b96-a58f-f7270c704f0f")
+			(uuid "f612dfc7-e5d7-4e94-b46c-bc5231e7ffe0")
 			(effects
 				(font
 					(size 1 1)
@@ -20488,7 +20488,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "783d42c4-5aad-4ba7-9bf4-bbd03793dfe0")
+			(uuid "a058ffb1-bc3f-4acd-90a7-44e222dcc302")
 			(effects
 				(font
 					(size 1 1)
@@ -20502,7 +20502,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f459d5db-4002-4c7b-a7be-ba964ca09e6b")
+			(uuid "8b14745b-af9a-410f-a175-e751e694d670")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20516,7 +20516,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cee248f9-76ac-426a-8307-331be5185ed8")
+			(uuid "3b55eec7-a55d-4957-aa0d-c6698662f520")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20776,13 +20776,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "99d01f88-8412-40f8-a431-fdbc255b6764")
-		(at 115.09375 97.63125 90)
+		(at 104.23525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D14"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "1176069b-fbbd-4093-8d36-62c1fb305977")
+			(uuid "30b809f4-6c19-4a59-af69-32dd125ea643")
 			(effects
 				(font
 					(size 1 1)
@@ -20794,7 +20794,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "9b718cdd-f19c-4950-bd72-bdc36c1de945")
+			(uuid "8c8669a1-ea3f-4f7e-bc16-dffae4556c30")
 			(effects
 				(font
 					(size 1 1)
@@ -20808,7 +20808,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9d42f316-a5c8-4449-9f8b-beee0e4310e7")
+			(uuid "8c6555c0-8221-4220-a37f-36234e1b4c36")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20822,7 +20822,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "79fa8898-8073-4e57-8b71-78bd275d51a2")
+			(uuid "ed8da74c-5b1e-4d32-a544-3341cbc3c4ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21489,13 +21489,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "af4f4eda-1a6e-42e0-b82a-f49526a05fa4")
-		(at 210.34375 78.58125 90)
+		(at 199.48525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D9"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "d734071d-b499-4529-ae78-3f8b3002a779")
+			(uuid "97b3042a-27d8-43a8-b03e-00b15137584e")
 			(effects
 				(font
 					(size 1 1)
@@ -21507,7 +21507,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "ac7d1b98-f658-4bd3-b186-90a29a766561")
+			(uuid "e6b89310-2d93-4044-9551-223e48a48d4d")
 			(effects
 				(font
 					(size 1 1)
@@ -21521,7 +21521,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "25d453c6-9c5f-4d79-9a9d-e1302ec71533")
+			(uuid "ecf93722-6614-44d4-89ff-ab11be602536")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21535,7 +21535,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "00942811-c03c-4b3e-9863-8b8673394586")
+			(uuid "19a404be-b67b-4335-9a7a-77c49855b2c7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22145,13 +22145,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "b736748c-7166-4f5b-8d92-9a9b0cf0b82d")
-		(at 57.94375 78.58125 90)
+		(at 47.08525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D1"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "bddd58e4-d5e9-4601-a606-7324fc1b2d6c")
+			(uuid "218c1e16-751f-4479-8d48-f85af7d363a8")
 			(effects
 				(font
 					(size 1 1)
@@ -22163,7 +22163,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "648c7895-8426-48f8-8efc-3ada105b95d3")
+			(uuid "a2697e00-4b89-45e3-b919-9f4e3cc09621")
 			(effects
 				(font
 					(size 1 1)
@@ -22177,7 +22177,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c88189c9-1832-445f-ad79-54e772ea214c")
+			(uuid "4663b5ed-c185-42fb-ad42-507eac477417")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22191,7 +22191,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3ce34f2c-78ef-468c-962a-7459d5b71b4b")
+			(uuid "bf57a175-8e54-443f-9721-e992ad25c4ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22894,13 +22894,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "bf45f7a7-383a-4d49-a843-3e95be70560b")
-		(at 229.39375 97.63125 90)
+		(at 218.53525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D20"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "ae4ccc9d-b37f-48cf-8b16-8534859eb972")
+			(uuid "c82b87f6-a156-4a73-939d-71d4df7cf26b")
 			(effects
 				(font
 					(size 1 1)
@@ -22912,7 +22912,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "11281cb4-620f-44b9-9759-52270f832a53")
+			(uuid "2c962c4d-9017-432b-975e-afa689ac1b2a")
 			(effects
 				(font
 					(size 1 1)
@@ -22926,7 +22926,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "61b70156-9013-44ef-8b54-23cd7420a7ad")
+			(uuid "26ebc528-617a-47b4-b187-b8bdd6c62020")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22940,7 +22940,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f2f5956f-14b2-420a-8c4e-cb47c0e7bdce")
+			(uuid "401e7500-4225-4d99-b359-6305c2d55f18")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23608,13 +23608,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "e54e6700-7c03-4516-a268-22c6a325f3ae")
-		(at 57.94375 97.63125 90)
+		(at 47.08525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D11"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "6ff3bce3-d690-46db-bf7c-e426946d0653")
+			(uuid "1419493b-42a2-47c5-90a5-ac7c6c9710fb")
 			(effects
 				(font
 					(size 1 1)
@@ -23626,7 +23626,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "f16084af-0f8f-4a4a-aa93-738b06a1a88b")
+			(uuid "065d6946-8f09-4bc6-bc13-f3b125331235")
 			(effects
 				(font
 					(size 1 1)
@@ -23640,7 +23640,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0a55737d-4e22-4f54-90c5-ca902416b4c6")
+			(uuid "73c61fc1-f83c-460a-b149-8fffb5704ba8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23654,7 +23654,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2e4bc023-c7fb-462b-8245-acdd681a3599")
+			(uuid "865ead37-e83a-462b-8b8b-c3de5c7daca9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23914,13 +23914,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "e59593cc-fffa-47d4-b3b1-20673e5297f0")
-		(at 76.99375 97.63125 90)
+		(at 66.13525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D12"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "0bc08fdb-7dee-4a82-bc9d-d9f3f8b007b1")
+			(uuid "880e828a-94ba-4b4e-a3d4-f2862a37450b")
 			(effects
 				(font
 					(size 1 1)
@@ -23932,7 +23932,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "2dc18620-39ff-47f2-9c82-65264a2de2ca")
+			(uuid "9205eb37-9034-4e0b-9cc6-b1a1130f1c07")
 			(effects
 				(font
 					(size 1 1)
@@ -23946,7 +23946,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0353c8a4-e8ec-48e2-bfbe-14ad9ac48fb3")
+			(uuid "b89bb530-e6a4-435e-b69d-86c26772937d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23960,7 +23960,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d3fe1960-a8dc-435f-82ec-157ec01dc502")
+			(uuid "ba8b944d-e886-46e2-bf25-4010c8605f30")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24220,13 +24220,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "e8a0c5d4-0377-4adc-823d-91bf11411c93")
-		(at 134.14375 109.5375 -90)
+		(at 123.28525 -32.31515 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D23"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "0f2661ff-9e43-437c-aa98-22fc9462a08c")
+			(uuid "cbb0a025-8e5a-42fd-a8ca-450e8a907cea")
 			(effects
 				(font
 					(size 1 1)
@@ -24238,7 +24238,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "5f0564f0-1d17-4bb6-9037-e6ebf60590cb")
+			(uuid "e3565c1b-302e-486f-86d6-7075b89b27af")
 			(effects
 				(font
 					(size 1 1)
@@ -24252,7 +24252,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4ae842db-45d3-4c56-a02e-ae4cf208031f")
+			(uuid "630ea4a4-6ad3-4630-b972-68960ad7e76a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24266,7 +24266,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "40c076f5-aabb-4407-b739-a5c5d5c494e6")
+			(uuid "4273afba-ec64-4f4b-8861-77ff938befad")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24730,13 +24730,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "ee2117d8-6033-4dd9-bfbc-55479ce5a1ed")
-		(at 172.24375 78.58125 90)
+		(at 161.38525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D7"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "d23cdbd8-bed2-45ed-af86-cd9915174fe5")
+			(uuid "dd276439-db0b-4746-9308-9dbe8d8e82a7")
 			(effects
 				(font
 					(size 1 1)
@@ -24748,7 +24748,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "7898f4df-5c87-4035-9805-62e166cdbd60")
+			(uuid "8d5be008-239d-4f1e-abbb-e687d7e6ecd4")
 			(effects
 				(font
 					(size 1 1)
@@ -24762,7 +24762,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1830a0a5-aa80-41af-af7e-b09c09da1e92")
+			(uuid "bc5765cf-0afd-4be7-b505-b5d27438ae62")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24776,7 +24776,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a1c2e6b9-8bea-437a-9bbf-be6d2c721f1b")
+			(uuid "74b73c84-a878-4b2c-b5af-bdfb3ec273d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25036,13 +25036,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "f51ab4b4-9e1c-4398-b942-ddb3d83d5891")
-		(at 115.09375 109.5375 -90)
+		(at 104.23525 -32.31515 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D22"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "17b67899-60af-4540-a11e-bb8d4dc3c783")
+			(uuid "96a8d3f4-1efc-4f91-960c-f34d1f1bc4f1")
 			(effects
 				(font
 					(size 1 1)
@@ -25054,7 +25054,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "a1543b87-0027-44a2-ad64-516747b860a4")
+			(uuid "1d3bf569-a794-4588-af56-e2404bd145c4")
 			(effects
 				(font
 					(size 1 1)
@@ -25068,7 +25068,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1ed08e38-8632-4a1d-bedf-f83fa2f0b158")
+			(uuid "a6e02670-069d-4439-9e34-a33bf728c154")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25082,7 +25082,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e25a1a78-e47a-4187-b593-b5c1792b7a1b")
+			(uuid "bc220391-53fb-4a1d-bc32-32182ecb9406")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26005,13 +26005,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "fc58ddab-b005-4eae-8b05-42461b4d052d")
-		(at 191.29375 78.58125 90)
+		(at 180.43525 -63.2714 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D8"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "5b16d558-3742-460c-af0a-ef52ed5da9bc")
+			(uuid "5032ce3c-763f-4ece-8c49-0d8795cb6b54")
 			(effects
 				(font
 					(size 1 1)
@@ -26023,7 +26023,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "808fcecb-9622-4811-886b-e64a0ee7d293")
+			(uuid "7d2199f8-b6a7-49c8-9577-6ad048de6c78")
 			(effects
 				(font
 					(size 1 1)
@@ -26037,7 +26037,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "29e56305-163f-4d6f-ad99-a86fa6267016")
+			(uuid "4b39afa4-adbf-4617-87bd-bff307ea4ab1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26051,7 +26051,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7c4b7329-624f-4f89-b1d7-12551aec0c9b")
+			(uuid "30ade06d-eaca-4576-9892-8cc55c1f94a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26311,13 +26311,13 @@
 	(footprint "Diode_SMD:D_SOD-323_HandSoldering"
 		(layer "B.Cu")
 		(uuid "fe7fbed4-23f0-4ab5-a9e8-8033e3d48753")
-		(at 134.14375 97.63125 90)
+		(at 123.28525 -44.2214 90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D15"
 			(at 0 1.85 90)
 			(layer "B.SilkS")
-			(uuid "ef208c18-c594-424d-8595-16ab9e71e7b2")
+			(uuid "896eb08d-88e6-45a4-8975-9e476ec9ae61")
 			(effects
 				(font
 					(size 1 1)
@@ -26329,7 +26329,7 @@
 		(property "Value" "~"
 			(at 0.1 -1.9 90)
 			(layer "B.Fab")
-			(uuid "61837c59-0bc0-41f9-bbe2-76cfee2ee3e8")
+			(uuid "4f169323-bccb-4438-98f4-720ee9fa5029")
 			(effects
 				(font
 					(size 1 1)
@@ -26343,7 +26343,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "689d7a8f-e5ed-4681-b552-877e01139a43")
+			(uuid "63ab0c06-82ea-4fab-a81f-58e536c50179")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26357,7 +26357,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "997d6f39-f3ec-423a-aba5-bedc840454b6")
+			(uuid "6cd302ab-6896-4022-9781-15ef57b402c7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28183,36 +28183,12 @@
 		(uuid "da24a3f3-4fa4-4eaf-b370-9eca48cd15dd")
 	)
 	(segment
-		(start 57.94375 72.925)
-		(end 58.0025 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 12)
-		(uuid "45b0affa-7cbc-46c9-9308-fbc2bbdc447f")
-	)
-	(segment
-		(start 57.94375 77.33125)
-		(end 57.94375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 12)
-		(uuid "48aca21c-4104-47e2-b918-5508b5276b77")
-	)
-	(segment
 		(start 239.45375 105.09725)
 		(end 239.45375 111.40375)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "07f32f4b-bc88-48b0-936f-7dbf44cc193f")
-	)
-	(segment
-		(start 57.94375 79.83125)
-		(end 242.39125 79.83125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 13)
-		(uuid "96a1b39a-475a-4899-a720-13cda164eee7")
 	)
 	(segment
 		(start 246.507 98.044)
@@ -28239,116 +28215,12 @@
 		(uuid "d866b175-05f4-4368-9b93-2dc5cb80d383")
 	)
 	(segment
-		(start 76.99375 77.33125)
-		(end 76.99375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 17)
-		(uuid "33a486d3-f4ab-402c-b02d-6646e7060cbf")
-	)
-	(segment
-		(start 76.99375 72.925)
-		(end 77.0525 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 17)
-		(uuid "3cd65961-e058-4e39-ae2c-196c1e30061f")
-	)
-	(segment
-		(start 96.04375 72.925)
-		(end 96.1025 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 18)
-		(uuid "7e87cd8a-cfed-4e78-a3ff-d20699a25fe4")
-	)
-	(segment
-		(start 96.04375 77.33125)
-		(end 96.04375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 18)
-		(uuid "d9dad86e-4734-4e23-8907-76e15c1da700")
-	)
-	(segment
-		(start 115.1525 72.86625)
-		(end 115.1525 77.2725)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 19)
-		(uuid "e05ce1ff-1816-4fc1-b867-e25009d38aac")
-	)
-	(segment
-		(start 115.1525 77.2725)
-		(end 115.09375 77.33125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 19)
-		(uuid "e76a123e-0771-4ccd-a785-ec5063f543d2")
-	)
-	(segment
-		(start 134.14375 72.925)
-		(end 134.2025 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 20)
-		(uuid "05f15f77-1f1a-470d-b4cb-ab444b535e3e")
-	)
-	(segment
-		(start 134.14375 77.33125)
-		(end 134.14375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 20)
-		(uuid "0a4b0a78-77cc-46a7-af20-2669ffed46c7")
-	)
-	(segment
-		(start 153.19375 72.925)
-		(end 153.2525 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 21)
-		(uuid "2696c38e-6f45-4feb-abe0-5d1cba33553b")
-	)
-	(segment
-		(start 153.19375 77.33125)
-		(end 153.19375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 21)
-		(uuid "e695edeb-0f3b-4363-a6b2-7e43237a0fe0")
-	)
-	(segment
-		(start 172.24375 77.33125)
-		(end 172.24375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 23)
-		(uuid "427e1ddf-06d4-4515-91ac-cacf451375e9")
-	)
-	(segment
-		(start 172.24375 72.925)
-		(end 172.3025 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 23)
-		(uuid "70f1599e-db9e-4475-aadb-76a33d769d07")
-	)
-	(segment
 		(start 191.29375 72.925)
 		(end 191.3525 72.86625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 24)
 		(uuid "5982ef72-d6d3-4b9c-9e4e-c4b311c75efd")
-	)
-	(segment
-		(start 191.29375 77.33125)
-		(end 191.29375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 24)
-		(uuid "6bf46d92-2078-4582-9c69-82cc94b8caa9")
 	)
 	(segment
 		(start 210.34375 72.925)
@@ -28359,44 +28231,12 @@
 		(uuid "b43b2e6c-38e4-48a8-9aab-46c883d6ae28")
 	)
 	(segment
-		(start 210.34375 77.33125)
-		(end 210.34375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 26)
-		(uuid "f7cd25d7-d262-438f-a490-0fd50adb9924")
-	)
-	(segment
-		(start 229.39375 72.925)
-		(end 229.4525 72.86625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 27)
-		(uuid "335fdc28-915c-4497-a483-c3bd1657a482")
-	)
-	(segment
-		(start 229.39375 77.33125)
-		(end 229.39375 72.925)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 27)
-		(uuid "7ddcf418-dadb-4b1b-8e37-19dfc4b196f5")
-	)
-	(segment
 		(start 241.173 100.33)
 		(end 239.72425 98.88125)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 28)
 		(uuid "4fc90a27-e184-4d81-a7d9-3e426dcbb994")
-	)
-	(segment
-		(start 239.72425 98.88125)
-		(end 57.94375 98.88125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 28)
-		(uuid "733f5ce6-30c9-4dc9-958c-2bd0eb21c449")
 	)
 	(segment
 		(start 238.18375 105.22425)
@@ -28423,172 +28263,12 @@
 		(uuid "d00c0da6-6d5d-4ab9-80f7-a87eee9dc10a")
 	)
 	(segment
-		(start 57.94375 96.38125)
-		(end 57.94375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 29)
-		(uuid "2817bad5-0a6f-41c3-8d21-6d2d38b3e4c9")
-	)
-	(segment
-		(start 57.94375 91.975)
-		(end 58.0025 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 29)
-		(uuid "7fb51665-73d1-46f3-a0ca-ef503627c381")
-	)
-	(segment
-		(start 76.99375 96.38125)
-		(end 76.99375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 32)
-		(uuid "b5208d07-961b-435d-8384-2ceae9a4c699")
-	)
-	(segment
-		(start 76.99375 91.975)
-		(end 77.0525 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 32)
-		(uuid "da7c9b7b-bbfd-44f7-835c-b21cd96c4d28")
-	)
-	(segment
-		(start 96.04375 96.38125)
-		(end 96.04375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 34)
-		(uuid "afb6f252-6a2e-47a4-bb79-213fd842bce8")
-	)
-	(segment
-		(start 96.04375 91.975)
-		(end 96.1025 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 34)
-		(uuid "c2900515-42b0-4642-bb99-b3969422a7bb")
-	)
-	(segment
-		(start 115.1525 91.91625)
-		(end 115.1525 96.3225)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 35)
-		(uuid "b48c8482-1196-4bf3-9952-d5a174997a4c")
-	)
-	(segment
-		(start 115.1525 96.3225)
-		(end 115.09375 96.38125)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 35)
-		(uuid "d28eb242-620c-4f05-a235-2a0baddd01d5")
-	)
-	(segment
-		(start 134.14375 91.975)
-		(end 134.2025 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 36)
-		(uuid "4ca12686-9f16-43a5-83ee-954ea658d766")
-	)
-	(segment
-		(start 134.14375 96.38125)
-		(end 134.14375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 36)
-		(uuid "8f6cc921-f7bc-492f-a9b4-e751d6aa7af0")
-	)
-	(segment
-		(start 153.19375 91.975)
-		(end 153.2525 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 37)
-		(uuid "311e102b-a318-4121-a9c0-5edff068fc62")
-	)
-	(segment
-		(start 153.19375 96.38125)
-		(end 153.19375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 37)
-		(uuid "ee64d293-2dff-4f2c-a93f-d7e88dd39b1c")
-	)
-	(segment
-		(start 172.24375 91.975)
-		(end 172.3025 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 38)
-		(uuid "686fdcca-f510-40b7-bcb9-585a8187425f")
-	)
-	(segment
-		(start 172.24375 96.38125)
-		(end 172.24375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 38)
-		(uuid "ef4da6ac-9204-498a-a037-87b2b7f755b1")
-	)
-	(segment
 		(start 191.29375 91.975)
 		(end 191.3525 91.91625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 39)
 		(uuid "01d9de23-07af-4697-8cca-7ec2fb19b967")
-	)
-	(segment
-		(start 191.29375 96.38125)
-		(end 191.29375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 39)
-		(uuid "2f6e2780-104b-4506-9c7a-29b739894df4")
-	)
-	(segment
-		(start 210.34375 91.975)
-		(end 210.4025 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 40)
-		(uuid "6c68da3f-7a24-4dac-a62a-b58974ef9b5e")
-	)
-	(segment
-		(start 210.34375 96.38125)
-		(end 210.34375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 40)
-		(uuid "d59ba749-ff90-4c04-9ddc-d9c97539225b")
-	)
-	(segment
-		(start 229.39375 96.38125)
-		(end 229.39375 91.975)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 41)
-		(uuid "437af1f2-b982-495e-affb-1048e33e66ab")
-	)
-	(segment
-		(start 229.39375 91.975)
-		(end 229.4525 91.91625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 41)
-		(uuid "a19699db-38d0-4b32-8dd5-d077cf713ba5")
-	)
-	(segment
-		(start 230.632 100.457)
-		(end 174.244 100.457)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 42)
-		(uuid "03270b89-dc95-4515-a524-ad86bd019405")
 	)
 	(segment
 		(start 236.91375 105.60525)
@@ -28599,14 +28279,6 @@
 		(uuid "097f9e41-b65f-4c6c-835a-a7f431c88eac")
 	)
 	(segment
-		(start 172.24375 102.45725)
-		(end 172.24375 108.2875)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 42)
-		(uuid "2add9221-f4e2-47e5-b576-55c99a65bfe6")
-	)
-	(segment
 		(start 236.91375 111.40375)
 		(end 236.91375 105.60525)
 		(width 0.2)
@@ -28615,28 +28287,12 @@
 		(uuid "2bc9b46b-60c6-44cd-8354-efcc94547949")
 	)
 	(segment
-		(start 174.244 100.457)
-		(end 172.24375 102.45725)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 42)
-		(uuid "31113fe8-35bb-4079-8894-e10739032151")
-	)
-	(segment
 		(start 240.284 100.584)
 		(end 239.141 99.441)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 42)
 		(uuid "40cb474b-b76b-482a-a854-a70aa37ec2c6")
-	)
-	(segment
-		(start 172.24375 108.2875)
-		(end 96.04375 108.2875)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 42)
-		(uuid "5e52efd6-30ee-4ac6-8ee3-fa142c717e2a")
 	)
 	(segment
 		(start 231.648 99.441)
@@ -28663,84 +28319,12 @@
 		(uuid "ebd745a7-3e0d-4953-8168-d5bbd2ae4a7f")
 	)
 	(segment
-		(start 96.04375 117.2575)
-		(end 96.1025 117.31625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 43)
-		(uuid "3cfb2123-6820-40de-bad2-ccefafd7750a")
-	)
-	(segment
-		(start 96.04375 110.7875)
-		(end 96.04375 117.2575)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 43)
-		(uuid "5240c07a-12f7-43ca-93eb-74684e061475")
-	)
-	(segment
-		(start 115.09375 117.2575)
-		(end 115.1525 117.31625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 44)
-		(uuid "54918fbd-0b53-4c28-bdb8-6cd092c6963c")
-	)
-	(segment
-		(start 115.09375 110.7875)
-		(end 115.09375 117.2575)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 44)
-		(uuid "e7705d80-f319-498d-9daf-0cc9f22da1be")
-	)
-	(segment
-		(start 134.14375 110.7875)
-		(end 134.14375 117.2575)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 45)
-		(uuid "6854fc82-4872-40e1-bda2-045dd6f11c32")
-	)
-	(segment
-		(start 134.14375 117.2575)
-		(end 134.2025 117.31625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 45)
-		(uuid "cb9d4774-5312-4f37-9d9a-17518c16c2b7")
-	)
-	(segment
-		(start 153.19375 110.7875)
-		(end 153.19375 117.2575)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 46)
-		(uuid "18a6a34d-ce21-4153-9135-5ce364341777")
-	)
-	(segment
 		(start 153.19375 117.2575)
 		(end 153.2525 117.31625)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 46)
 		(uuid "542bdf3f-8f47-4cf3-916c-b29e22175e29")
-	)
-	(segment
-		(start 172.24375 110.7875)
-		(end 172.24375 117.2575)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 47)
-		(uuid "4f781b90-198f-4905-8e74-728b4ea59fc5")
-	)
-	(segment
-		(start 172.24375 117.2575)
-		(end 172.3025 117.31625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 47)
-		(uuid "b2d061c6-532a-4827-8435-05d91bd46f41")
 	)
 	(segment
 		(start 245.745 75.565)
@@ -28975,30 +28559,6 @@
 		(uuid "d2d4764c-264a-4820-b2d8-188d2576c056")
 	)
 	(segment
-		(start 109.22 100.457)
-		(end 80.645 100.457)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "0031c560-e6ec-4b83-a578-8356e0de331b")
-	)
-	(segment
-		(start 80.645 100.457)
-		(end 73.66 93.472)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "488da319-e75e-4bf4-9570-6fb0f3b61811")
-	)
-	(segment
-		(start 109.855 116.586)
-		(end 109.855 101.092)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "4b60a111-39d9-4701-a223-6ee4b6261a4e")
-	)
-	(segment
 		(start 194.31 119.634)
 		(end 187.579 126.365)
 		(width 0.2)
@@ -29007,28 +28567,12 @@
 		(uuid "6efcd01f-73ae-4c8e-9af6-63abf567d334")
 	)
 	(segment
-		(start 109.855 101.092)
-		(end 109.22 100.457)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "9c25b251-60a2-4da6-b2d3-351bdcba1552")
-	)
-	(segment
 		(start 187.579 126.365)
 		(end 119.634 126.365)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 57)
 		(uuid "b496d24b-f93b-43f5-a8db-aa6bb08e9307")
-	)
-	(segment
-		(start 73.66 70.485)
-		(end 73.66 89.408)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "b626e864-3c9b-4e1a-abd8-4b18d4e4e75a")
 	)
 	(segment
 		(start 194.31 119.634)
@@ -29046,22 +28590,6 @@
 		(net 57)
 		(uuid "edad1e2e-226a-4c4a-872b-0ee5d00311a7")
 	)
-	(segment
-		(start 73.66 93.472)
-		(end 73.66 89.408)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "f9b77a42-6d69-46df-8afc-81f479fb4de4")
-	)
-	(via
-		(at 73.66 70.485)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 57)
-		(uuid "3d6458fb-e01f-4d8c-b7e7-4e82a608ca3e")
-	)
 	(via
 		(at 222.631 119.634)
 		(size 0.6)
@@ -29070,14 +28598,6 @@
 		(net 57)
 		(uuid "7797896f-08c1-488e-9896-fb5fab9838ae")
 	)
-	(via
-		(at 73.66 89.408)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 57)
-		(uuid "a38bf9b3-db24-4d54-956c-2aeda4118539")
-	)
 	(segment
 		(start 227.32525 122.81375)
 		(end 224.663 119.888)
@@ -29085,30 +28605,6 @@
 		(layer "B.Cu")
 		(net 57)
 		(uuid "0461a5a6-c0e7-485c-aee2-718d844ce682")
-	)
-	(segment
-		(start 70.9295 89.37625)
-		(end 73.62825 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 57)
-		(uuid "2732e3fa-d2fa-4fe6-9c97-b06c6439de16")
-	)
-	(segment
-		(start 73.50125 70.32625)
-		(end 73.66 70.485)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 57)
-		(uuid "5547de45-d4b8-459d-bd59-62cd0a6cfcf0")
-	)
-	(segment
-		(start 70.9295 70.32625)
-		(end 73.50125 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 57)
-		(uuid "596949d4-7885-40bb-ba99-abccafacf2b9")
 	)
 	(segment
 		(start 224.663 119.888)
@@ -29127,28 +28623,12 @@
 		(uuid "d54033f3-ede7-4736-bda1-0fe73dbb7089")
 	)
 	(segment
-		(start 73.62825 89.37625)
-		(end 73.66 89.408)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 57)
-		(uuid "e966013f-19a8-4953-a38a-ede23c6110fd")
-	)
-	(segment
 		(start 224.409 119.634)
 		(end 222.631 119.634)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 57)
 		(uuid "f7795b1c-5401-4fac-8d25-7e7bd101fd94")
-	)
-	(segment
-		(start 92.583 94.869)
-		(end 92.583 89.281)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 58)
-		(uuid "33f15cf0-12d0-4b19-8e97-bbe6004e5288")
 	)
 	(segment
 		(start 193.802 118.745)
@@ -29159,28 +28639,12 @@
 		(uuid "4aefd987-e6e5-45b2-8db8-93137c17a590")
 	)
 	(segment
-		(start 110.49 100.711)
-		(end 109.601 99.822)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 58)
-		(uuid "4db87f35-36ac-44d3-9f4f-872c5cc017d2")
-	)
-	(segment
 		(start 221.996 118.745)
 		(end 193.802 118.745)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 58)
 		(uuid "6f4438ff-2bcb-4430-b441-0cdb15765875")
-	)
-	(segment
-		(start 109.601 99.822)
-		(end 97.536 99.822)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 58)
-		(uuid "7fab4aeb-48cb-4e2a-b417-ce0506a4996a")
 	)
 	(segment
 		(start 186.944 125.603)
@@ -29191,44 +28655,12 @@
 		(uuid "90dcf289-03e6-49ce-9580-2e446e0a9deb")
 	)
 	(segment
-		(start 97.536 99.822)
-		(end 92.583 94.869)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 58)
-		(uuid "a1df75a9-ddb8-4d7b-b088-8df0a540568f")
-	)
-	(segment
 		(start 119.888 125.603)
 		(end 110.49 116.205)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 58)
 		(uuid "d17709a3-62a5-4f67-b1fe-ff74f9c856c8")
-	)
-	(segment
-		(start 92.583 70.358)
-		(end 92.583 89.281)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 58)
-		(uuid "decc0c1c-1457-4793-98d2-c9a4776200da")
-	)
-	(segment
-		(start 110.49 116.205)
-		(end 110.49 100.711)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 58)
-		(uuid "f56d6c07-7cc5-40a7-b9f2-51a9bd1288fb")
-	)
-	(via
-		(at 92.583 89.281)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 58)
-		(uuid "a8133d09-97e1-4a9a-ada1-c6adb09fda9e")
 	)
 	(via
 		(at 221.996 118.745)
@@ -29237,22 +28669,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 58)
 		(uuid "b998a1e0-b0f6-475e-9f4c-c6fe550cb2e7")
-	)
-	(via
-		(at 92.583 70.358)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 58)
-		(uuid "f7bde0a3-9366-4265-9954-1b9ea313a242")
-	)
-	(segment
-		(start 92.55125 70.32625)
-		(end 92.583 70.358)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 58)
-		(uuid "2e388481-23c3-40c3-9f9a-045c28306bf9")
 	)
 	(segment
 		(start 221.996 118.745)
@@ -29263,44 +28679,12 @@
 		(uuid "5a8d19ed-6353-4155-b78a-016bdcaa3a21")
 	)
 	(segment
-		(start 89.9795 89.37625)
-		(end 90.07475 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 58)
-		(uuid "882bce9d-817c-4aea-a2a9-4c25605c87eb")
-	)
-	(segment
-		(start 89.9795 70.32625)
-		(end 92.55125 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 58)
-		(uuid "898d7ad3-dd78-44f9-a7d7-36a5500ce9ee")
-	)
-	(segment
 		(start 230.06875 121.54375)
 		(end 227.46175 121.54375)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 58)
 		(uuid "baf2362e-bf30-4b8c-8816-c7a23d33d9ef")
-	)
-	(segment
-		(start 89.9795 89.37625)
-		(end 92.48775 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 58)
-		(uuid "d2b530f6-a408-4650-a9e9-ef66533e286b")
-	)
-	(segment
-		(start 92.48775 89.37625)
-		(end 92.583 89.281)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 58)
-		(uuid "e3fb2b37-75f6-47a4-a88a-3758ecf87275")
 	)
 	(segment
 		(start 227.46175 121.54375)
@@ -29311,36 +28695,12 @@
 		(uuid "e43124ac-ab93-475b-8381-b539bdd336f0")
 	)
 	(segment
-		(start 90.07475 89.37625)
-		(end 90.17 89.281)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 58)
-		(uuid "ff389892-6929-4ae1-8d59-efde7c585e46")
-	)
-	(segment
 		(start 186.309 124.714)
 		(end 120.015 124.714)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 59)
 		(uuid "016a20b7-e97f-46cf-8a78-c248b91f065d")
-	)
-	(segment
-		(start 111.252 89.408)
-		(end 111.125 115.824)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 59)
-		(uuid "0902bef7-e825-4de2-a92c-e5b433770ba3")
-	)
-	(segment
-		(start 111.252 70.358)
-		(end 111.252 89.408)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 59)
-		(uuid "394a9748-45ed-47dd-b1a6-8e7b4abc9a3e")
 	)
 	(segment
 		(start 120.015 124.714)
@@ -29367,76 +28727,12 @@
 		(uuid "d4c0be50-b32d-4f6e-8dc9-e0738ca962ce")
 	)
 	(via
-		(at 111.252 70.358)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 59)
-		(uuid "079734b3-66bf-40bd-ab32-346a6994234a")
-	)
-	(via
-		(at 111.125 115.824)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 59)
-		(uuid "4a8f2bb5-0752-47ad-b191-dd535f20bcd7")
-	)
-	(via
 		(at 220.98 117.729)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 59)
 		(uuid "60f6d82d-0b9d-4e2a-bc59-aff0a4a7842e")
-	)
-	(via
-		(at 111.252 89.408)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 59)
-		(uuid "69bbbf89-e909-4fc9-a1fc-ee5900736ad4")
-	)
-	(segment
-		(start 111.22025 70.32625)
-		(end 111.252 70.358)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 59)
-		(uuid "421ca252-7526-40ca-8d21-a34ab3ddb1d9")
-	)
-	(segment
-		(start 111.22025 89.37625)
-		(end 111.252 89.408)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 59)
-		(uuid "5f90160f-e19e-4bd9-9fdf-2851a0c4c100")
-	)
-	(segment
-		(start 109.0295 89.37625)
-		(end 111.22025 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 59)
-		(uuid "8083e5c9-86fe-46a2-9bf4-c10fde2c0e3a")
-	)
-	(segment
-		(start 109.0295 70.32625)
-		(end 111.22025 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 59)
-		(uuid "8e5e8897-7a15-4912-8b9e-b8106867861c")
-	)
-	(segment
-		(start 111.22025 114.77625)
-		(end 109.0295 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 59)
-		(uuid "991081f8-e926-4212-8007-80c1259856db")
 	)
 	(segment
 		(start 226.95375 117.73375)
@@ -29445,14 +28741,6 @@
 		(layer "B.Cu")
 		(net 59)
 		(uuid "c1e283ff-9969-47ba-a781-758a93a4a2f1")
-	)
-	(segment
-		(start 111.125 115.824)
-		(end 111.22025 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 59)
-		(uuid "da627aa1-76ac-46cb-8749-0f56761ca496")
 	)
 	(segment
 		(start 220.98 117.729)
@@ -29487,60 +28775,12 @@
 		(uuid "a60cc718-ea5b-4f6b-96aa-5cc5136d9506")
 	)
 	(segment
-		(start 130.556 70.485)
-		(end 130.556 89.408)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 60)
-		(uuid "a7545fb0-cabb-4ec8-8fd8-9325be3279f0")
-	)
-	(segment
-		(start 130.556 115.951)
-		(end 130.556 114.808)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 60)
-		(uuid "d7e61877-630e-4453-848a-2a709c096924")
-	)
-	(segment
-		(start 130.556 89.408)
-		(end 130.556 114.808)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 60)
-		(uuid "da49e5c1-8e1a-4090-8005-ff06081e9ada")
-	)
-	(segment
 		(start 193.294 116.459)
 		(end 185.801 123.952)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 60)
 		(uuid "f456a83e-0de9-45a9-a3c2-57c16b1d36f4")
-	)
-	(via
-		(at 130.556 70.485)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 60)
-		(uuid "c9e618a5-2251-48ce-9c66-ea9362b95151")
-	)
-	(via
-		(at 130.556 114.808)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 60)
-		(uuid "ce484261-c337-4651-a945-d0c949d9d49d")
-	)
-	(via
-		(at 130.556 89.408)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 60)
-		(uuid "d269d842-459f-4ccd-af43-ae3354931fb0")
 	)
 	(via
 		(at 221.107 116.459)
@@ -29567,62 +28807,6 @@
 		(uuid "7c964f38-3366-4c7e-a753-36a16a05ff2a")
 	)
 	(segment
-		(start 130.52425 114.77625)
-		(end 130.556 114.808)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 60)
-		(uuid "890a4a8a-8e8c-4684-9567-ca29e81d8291")
-	)
-	(segment
-		(start 128.0795 89.37625)
-		(end 130.52425 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 60)
-		(uuid "b5419de6-da19-4589-9fc9-d32f3ec4a99d")
-	)
-	(segment
-		(start 130.52425 89.37625)
-		(end 130.556 89.408)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 60)
-		(uuid "c90131ff-1c06-45a5-ac70-54fe0b2d0368")
-	)
-	(segment
-		(start 128.0795 70.32625)
-		(end 130.39725 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 60)
-		(uuid "d12be58d-b27f-4560-930e-a2a04585ee13")
-	)
-	(segment
-		(start 130.39725 70.32625)
-		(end 130.556 70.485)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 60)
-		(uuid "ec6c207a-dc67-4fe2-9f5a-00c2f8459d65")
-	)
-	(segment
-		(start 128.0795 114.77625)
-		(end 130.52425 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 60)
-		(uuid "ff4a92a3-cde0-4fc7-8acf-28bc7d9c85e2")
-	)
-	(segment
-		(start 149.606 70.485)
-		(end 149.606 89.408)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 61)
-		(uuid "2ac3c82c-0bc0-444a-99c3-a3c814b6058a")
-	)
-	(segment
 		(start 185.166 122.936)
 		(end 154.94 122.936)
 		(width 0.2)
@@ -29647,28 +28831,12 @@
 		(uuid "9502dc60-1be8-4aff-b4a2-e75213dc2c48")
 	)
 	(segment
-		(start 149.606 117.602)
-		(end 149.606 114.808)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 61)
-		(uuid "c7ac73f5-9e98-4767-9103-d8d0d1982515")
-	)
-	(segment
 		(start 154.94 122.936)
 		(end 149.606 117.602)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 61)
 		(uuid "cc339f41-fd58-494a-8b81-337e5e6a2be2")
-	)
-	(segment
-		(start 149.606 89.408)
-		(end 149.606 114.808)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 61)
-		(uuid "fba2ea19-fa97-4cab-a775-f04bd83994a4")
 	)
 	(via
 		(at 221.107 115.316)
@@ -29677,30 +28845,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 61)
 		(uuid "09e1cbf9-7645-4ed5-bdb4-c47a0a1f3eb4")
-	)
-	(via
-		(at 149.606 70.485)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 61)
-		(uuid "1637944f-569d-4a4e-ba9f-72fd1e1020ad")
-	)
-	(via
-		(at 149.606 114.808)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 61)
-		(uuid "48c929ef-1cbd-4540-9b55-b6bd49819ae9")
-	)
-	(via
-		(at 149.606 89.408)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 61)
-		(uuid "73e0adc6-80aa-488d-b6e2-9b3a9798d74a")
 	)
 	(segment
 		(start 221.107 115.316)
@@ -29711,52 +28855,12 @@
 		(uuid "07a6164b-a524-484e-b314-6b4a06ab639a")
 	)
 	(segment
-		(start 149.57425 114.77625)
-		(end 149.606 114.808)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 61)
-		(uuid "507415d9-0d74-4150-9487-681cd795e062")
-	)
-	(segment
 		(start 227.32525 115.19375)
 		(end 230.06875 115.19375)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 61)
 		(uuid "61a54bd0-e7a7-41aa-9243-df70952f8511")
-	)
-	(segment
-		(start 149.57425 89.37625)
-		(end 149.606 89.408)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 61)
-		(uuid "6dd2ff6b-afc2-4ad8-a338-8075c298fbe6")
-	)
-	(segment
-		(start 147.1295 114.77625)
-		(end 149.57425 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 61)
-		(uuid "7a7274e5-2bc6-46d9-aeaa-6ec120049742")
-	)
-	(segment
-		(start 149.44725 70.32625)
-		(end 149.606 70.485)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 61)
-		(uuid "8f244fe2-98db-4e39-98e1-672773d8eaad")
-	)
-	(segment
-		(start 147.1295 70.32625)
-		(end 149.44725 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 61)
-		(uuid "94dd29be-660c-4def-aeac-f53ce84e4822")
 	)
 	(segment
 		(start 227.203 115.316)
@@ -29767,60 +28871,12 @@
 		(uuid "a95a9e98-3c5d-45d8-854d-af2ebbe616b9")
 	)
 	(segment
-		(start 147.1295 89.37625)
-		(end 149.57425 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 61)
-		(uuid "dd37af74-cc98-4d76-83f0-105855005c7c")
-	)
-	(segment
-		(start 168.402 89.662)
-		(end 168.402 109.093)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "2fd474cf-383e-4c15-9f74-d46c134f36af")
-	)
-	(segment
-		(start 168.402 103.759)
-		(end 170.053 102.108)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "3fe05ae2-f582-49f4-84f4-5a5e6f0f5177")
-	)
-	(segment
-		(start 168.402 70.485)
-		(end 168.402 89.662)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "4f6f8aa3-f686-4ab1-8b0f-e1713684764c")
-	)
-	(segment
-		(start 186.182 102.108)
-		(end 189.357 98.933)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "655f20db-fd6c-49bd-ab4d-4d7a2130cad7")
-	)
-	(segment
 		(start 189.357 98.933)
 		(end 229.997 98.933)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 62)
 		(uuid "7f58f087-f3c0-4626-9d90-92be93e81c61")
-	)
-	(segment
-		(start 168.402 109.093)
-		(end 168.402 103.759)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "af6921c3-1a4c-4132-ad3d-0c038f35026a")
 	)
 	(segment
 		(start 229.997 98.933)
@@ -29830,14 +28886,6 @@
 		(net 62)
 		(uuid "b0aa336b-eff5-4de8-983b-8d93a069ad83")
 	)
-	(segment
-		(start 170.053 102.108)
-		(end 186.182 102.108)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 62)
-		(uuid "da12dfbe-e7f3-4e2c-831f-7eb2ddedd6ed")
-	)
 	(via
 		(at 233.045 101.981)
 		(size 0.6)
@@ -29845,70 +28893,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 62)
 		(uuid "5b5d55e3-f26f-46c0-bc75-8fe6f54474ee")
-	)
-	(via
-		(at 168.402 109.093)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 62)
-		(uuid "671c722f-757c-4e35-a38d-c3fe977ed2a2")
-	)
-	(via
-		(at 168.402 70.485)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 62)
-		(uuid "79ceb2b6-77a3-4309-832e-6447f0286551")
-	)
-	(via
-		(at 168.402 89.662)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 62)
-		(uuid "cf2902a4-889e-497f-8f5e-265cf8f0e482")
-	)
-	(segment
-		(start 168.24325 70.32625)
-		(end 168.402 70.485)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "0dd67586-a7b9-4aac-919a-a9bf32643b87")
-	)
-	(segment
-		(start 168.11625 89.37625)
-		(end 168.402 89.662)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "0ec93c92-1118-4042-baa7-a2117668ccca")
-	)
-	(segment
-		(start 167.29075 114.77625)
-		(end 166.1795 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "15d47f81-7d47-42d2-a041-63a3e03df040")
-	)
-	(segment
-		(start 166.1795 70.32625)
-		(end 168.24325 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "5652ee5a-911d-4234-b0d4-7002178661ff")
-	)
-	(segment
-		(start 168.402 113.665)
-		(end 167.29075 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "8e5d5fa5-9146-404e-b35e-6f818542bf28")
 	)
 	(segment
 		(start 231.83375 111.40375)
@@ -29919,28 +28903,12 @@
 		(uuid "a087c8da-9ecd-4f30-85ef-2e5d5605efe4")
 	)
 	(segment
-		(start 166.1795 89.37625)
-		(end 168.11625 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "b98ad36b-e1da-4932-bd75-fc52ca121b77")
-	)
-	(segment
 		(start 231.83375 110.17725)
 		(end 233.045 108.966)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 62)
 		(uuid "d4b55bf0-a4af-44db-a88e-d15bc4f806ea")
-	)
-	(segment
-		(start 168.402 109.093)
-		(end 168.402 113.665)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 62)
-		(uuid "d5b68c40-8768-4694-993c-1f24c16fb50f")
 	)
 	(segment
 		(start 233.045 108.966)
@@ -29951,52 +28919,12 @@
 		(uuid "ed60c8cb-1058-41c5-b524-225f6ce7f05e")
 	)
 	(segment
-		(start 188.849 98.298)
-		(end 187.96 97.409)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "1575e79d-bfad-4b87-a003-facb05ea520c")
-	)
-	(segment
-		(start 187.96 89.408)
-		(end 187.96 70.358)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "2b573805-47b5-4b71-b6e0-8a5d5b6e0ded")
-	)
-	(segment
 		(start 230.886 98.298)
 		(end 227.203 98.298)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 63)
 		(uuid "475d947b-7905-4c72-b2a9-35bef66df1df")
-	)
-	(segment
-		(start 185.293 99.187)
-		(end 186.055 98.425)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "5adf06b1-0b25-4b64-8255-2ed947bc325d")
-	)
-	(segment
-		(start 188.722 98.425)
-		(end 188.849 98.298)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "7404a337-3a4e-47ae-b4d1-667e974d0af9")
-	)
-	(segment
-		(start 185.293 101.473)
-		(end 185.293 99.187)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "a7a39719-de87-461b-a05a-c9adf54e41d8")
 	)
 	(segment
 		(start 227.203 98.298)
@@ -30007,60 +28935,12 @@
 		(uuid "aeec4404-d7e3-451d-80d8-18d3b39ff770")
 	)
 	(segment
-		(start 187.96 97.409)
-		(end 187.96 89.408)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "c966ab77-ccad-468d-876c-454203158a02")
-	)
-	(segment
 		(start 234.188 101.6)
 		(end 230.886 98.298)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 63)
 		(uuid "ca95f1cb-88f9-4b35-b8b5-53c1d1cd847b")
-	)
-	(segment
-		(start 186.055 98.425)
-		(end 188.722 98.425)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "f55c8318-0b8e-45a9-b4c1-3bdc958f4ffa")
-	)
-	(segment
-		(start 187.96 70.358)
-		(end 187.833 70.231)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 63)
-		(uuid "fad873e1-b8ab-47f5-995f-03ec528e0048")
-	)
-	(via
-		(at 187.833 70.231)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 63)
-		(uuid "1b54b3af-65ad-417e-a5d7-79ac931b129d")
-	)
-	(via
-		(at 187.96 89.408)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 63)
-		(uuid "23d818c8-2180-443c-9ab9-ecd666316f5e")
-	)
-	(via
-		(at 185.293 101.473)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 63)
-		(uuid "85fe36e8-73c2-4e33-a2d2-da53c45e1022")
 	)
 	(via
 		(at 234.188 101.6)
@@ -30071,52 +28951,12 @@
 		(uuid "8bbd1a8f-b023-4fc6-86b1-558297744d19")
 	)
 	(segment
-		(start 187.833 70.231)
-		(end 187.73775 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 63)
-		(uuid "0dd74950-82eb-4a99-8fcc-bb42ffb72f13")
-	)
-	(segment
 		(start 234.37375 101.78575)
 		(end 234.188 101.6)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 63)
 		(uuid "1cc6bfd6-6b5b-4f3a-b25c-279c4157f9c5")
-	)
-	(segment
-		(start 187.92825 89.37625)
-		(end 187.96 89.408)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 63)
-		(uuid "321cc798-6c26-4ced-ae07-01130d7235ab")
-	)
-	(segment
-		(start 185.293 101.473)
-		(end 185.2295 111.8235)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 63)
-		(uuid "4671dc0c-e1dc-4f51-ab37-aad51272ee20")
-	)
-	(segment
-		(start 185.2295 89.37625)
-		(end 187.92825 89.37625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 63)
-		(uuid "54e46feb-970f-4e28-9463-eb9d7266cb95")
-	)
-	(segment
-		(start 185.2295 111.8235)
-		(end 185.2295 114.77625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 63)
-		(uuid "5ee4a6eb-3e4f-4936-afff-2786370a1434")
 	)
 	(segment
 		(start 234.37375 111.40375)
@@ -30127,22 +28967,6 @@
 		(uuid "8f0a83c8-9aef-404f-827e-4c410a6b6e5d")
 	)
 	(segment
-		(start 187.73775 70.32625)
-		(end 185.2295 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 63)
-		(uuid "d6967152-c74f-4c5d-85c5-80e69f3e9530")
-	)
-	(segment
-		(start 210.947 97.409)
-		(end 206.502 92.964)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 64)
-		(uuid "343675fe-66c4-48e2-bba4-92cc30021f4c")
-	)
-	(segment
 		(start 235.458 101.473)
 		(end 231.394 97.409)
 		(width 0.2)
@@ -30151,28 +28975,12 @@
 		(uuid "802730d2-f49e-4333-ad33-88afb5bc9b5a")
 	)
 	(segment
-		(start 206.502 92.964)
-		(end 206.502 70.231)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 64)
-		(uuid "b0089e13-a4c5-4510-823c-df1dac4d2e60")
-	)
-	(segment
 		(start 231.394 97.409)
 		(end 210.947 97.409)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 64)
 		(uuid "beff4a11-e1bc-499a-95da-5ce4dc4b4f55")
-	)
-	(via
-		(at 206.502 70.231)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 64)
-		(uuid "16fd1c7b-3a1c-47a8-81a5-40ca2b722632")
 	)
 	(via
 		(at 235.458 101.473)
@@ -30191,60 +28999,12 @@
 		(uuid "1612393d-8aa0-4370-ac9d-0927bf8fec02")
 	)
 	(segment
-		(start 204.2795 70.32625)
-		(end 206.40675 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 64)
-		(uuid "452665ca-b57a-4b08-b53c-a45770222e3e")
-	)
-	(segment
 		(start 235.64375 111.40375)
 		(end 235.64375 101.65875)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 64)
 		(uuid "5430cfb1-4582-497e-a562-2ef1a119f458")
-	)
-	(segment
-		(start 206.40675 70.32625)
-		(end 206.502 70.231)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 64)
-		(uuid "aa2bead8-8da8-48d5-b286-8f79f8d17690")
-	)
-	(segment
-		(start 226.06 82.677)
-		(end 226.06 70.358)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 65)
-		(uuid "162a8848-42ba-480a-82c1-2196c3e51a52")
-	)
-	(segment
-		(start 224.282 85.852)
-		(end 224.663 85.852)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 65)
-		(uuid "29e32619-77dd-4cf9-a359-0a7c3e24fd55")
-	)
-	(segment
-		(start 226.949 83.566)
-		(end 229.997 83.566)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 65)
-		(uuid "2c1c16ef-fe7c-4586-9384-c12a1e0659fe")
-	)
-	(segment
-		(start 229.997 83.566)
-		(end 239.522 93.091)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 65)
-		(uuid "3397e04f-09bd-4545-b5ad-3a088104aa79")
 	)
 	(segment
 		(start 239.522 93.091)
@@ -30262,30 +29022,6 @@
 		(net 65)
 		(uuid "e86e9956-ea6e-47ed-b009-69564c3957ce")
 	)
-	(segment
-		(start 226.949 83.566)
-		(end 226.06 82.677)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 65)
-		(uuid "ee245882-bde1-49ab-b1a7-d802e3c218ab")
-	)
-	(segment
-		(start 224.663 85.852)
-		(end 226.949 83.566)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 65)
-		(uuid "f3f4107c-903a-46cf-9c59-c4b2a45286f9")
-	)
-	(via
-		(at 226.06 70.358)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 65)
-		(uuid "c766ddf4-1f12-43ef-8a2e-040964f18c12")
-	)
 	(via
 		(at 240.72375 104.97025)
 		(size 0.6)
@@ -30294,22 +29030,6 @@
 		(net 65)
 		(uuid "d723c8ef-e93f-428c-a2b4-49def5a12cc3")
 	)
-	(via
-		(at 224.282 85.852)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 65)
-		(uuid "e9cb214e-76ec-4e4c-ba14-4bea6417abd2")
-	)
-	(segment
-		(start 225.52025 70.32625)
-		(end 223.3295 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 65)
-		(uuid "11f42848-aa51-4302-a1db-4b282177e09e")
-	)
 	(segment
 		(start 240.72375 111.40375)
 		(end 240.72375 104.97025)
@@ -30317,38 +29037,6 @@
 		(layer "B.Cu")
 		(net 65)
 		(uuid "26e19788-8dd5-46a3-8a9f-10ea22a3389c")
-	)
-	(segment
-		(start 223.3295 89.37625)
-		(end 223.3295 86.8045)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 65)
-		(uuid "85ff94b0-908c-4acb-9af3-f434c0cde578")
-	)
-	(segment
-		(start 225.552 70.358)
-		(end 225.52025 70.32625)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 65)
-		(uuid "8be441aa-402c-470a-82a3-41bd2fc4483b")
-	)
-	(segment
-		(start 223.3295 86.8045)
-		(end 224.282 85.852)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 65)
-		(uuid "983463bd-f6bc-4cde-b2ce-71661b056035")
-	)
-	(segment
-		(start 226.06 70.358)
-		(end 225.552 70.358)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 65)
-		(uuid "d62ffa1a-2a97-4688-bcfc-d2d1ba60b1f1")
 	)
 	(segment
 		(start 242.062 109.093)
