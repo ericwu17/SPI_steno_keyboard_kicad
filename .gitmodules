@@ -7,3 +7,6 @@
 [submodule "random-keyboard-parts.pretty"]
 	path = random-keyboard-parts.pretty
 	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
+[submodule "key-switches.pretty"]
+	path = key-switches.pretty
+	url = git@github.com:siderakb/key-switches.pretty.git
