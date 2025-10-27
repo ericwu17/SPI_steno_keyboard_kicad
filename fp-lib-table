@@ -4,4 +4,5 @@
   (lib (name "dip_switch_footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/dip_switch_footprints.pretty")(options "")(descr ""))
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
   (lib (name "DMG6968U_7")(type "KiCad")(uri "${KIPRJMOD}/footprints/DMG6968U_7.pretty")(options "")(descr ""))
+  (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
 )
