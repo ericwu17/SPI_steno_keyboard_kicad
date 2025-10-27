@@ -3995,16 +3995,6 @@
 		)
 		(uuid "11be8fcc-20c7-49f3-8213-a25b3b096b03")
 	)
-	(label "led_1"
-		(at 134.62 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1bb7d94a-6f2d-4b52-b687-69577b3ddef6")
-	)
 	(label "USB_D-"
 		(at 45.72 50.8 0)
 		(effects
@@ -4035,7 +4025,7 @@
 		)
 		(uuid "348ba01a-b87e-4b23-9843-8bb7641ea5c6")
 	)
-	(label "led_4"
+	(label "led_2"
 		(at 90.17 88.9 90)
 		(effects
 			(font
@@ -4045,7 +4035,7 @@
 		)
 		(uuid "353fc72a-0985-4d0e-b5d8-4d3ade79284a")
 	)
-	(label "led_3"
+	(label "led_1"
 		(at 82.55 88.9 90)
 		(effects
 			(font
@@ -4054,26 +4044,6 @@
 			(justify left bottom)
 		)
 		(uuid "353fc72a-0985-4d0e-b5d8-4d3ade79284b")
-	)
-	(label "led_2"
-		(at 74.93 88.9 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "353fc72a-0985-4d0e-b5d8-4d3ade79284c")
-	)
-	(label "led_1"
-		(at 67.31 88.9 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "353fc72a-0985-4d0e-b5d8-4d3ade79284d")
 	)
 	(label "UART_RX"
 		(at 201.93 25.4 0)
@@ -4135,7 +4105,7 @@
 		)
 		(uuid "55302223-5b16-4750-958b-9491243a1e09")
 	)
-	(label "led_3"
+	(label "led_1"
 		(at 134.62 66.04 0)
 		(effects
 			(font
@@ -4285,16 +4255,6 @@
 		)
 		(uuid "81de56e6-584c-4f38-b67d-912932b9d23e")
 	)
-	(label "led_2"
-		(at 134.62 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8363e126-58bc-4936-bd94-65d2d9436aeb")
-	)
 	(label "CC2"
 		(at 138.43 96.52 0)
 		(effects
@@ -4435,7 +4395,7 @@
 		)
 		(uuid "df2da369-4c85-4140-8a20-d37ec43071f1")
 	)
-	(label "led_4"
+	(label "led_2"
 		(at 134.62 68.58 0)
 		(effects
 			(font
@@ -4556,85 +4516,6 @@
 			(project ""
 				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Small")
-		(at 67.31 91.44 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0506ec58-7fb1-4de2-8ace-a04eb282384a")
-		(property "Reference" "D26"
-			(at 69.85 90.1064 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 69.85 92.6464 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 67.31 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 67.31 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode, small symbol"
-			(at 67.31 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 67.31 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0a375ea-527a-43c9-bda8-52698ece9620")
-		)
-		(pin "2"
-			(uuid "137e7cb6-97c3-45ef-a5bf-77a21317d9f8")
-		)
-		(instances
-			(project ""
-				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
-					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -4977,151 +4858,6 @@
 			(project ""
 				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 74.93 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "295ee944-c837-4538-b7a3-f4f5d68e861a")
-		(property "Reference" "#PWR014"
-			(at 74.93 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 74.93 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2af1de0a-0c09-4bd5-a362-4e4f4405df85")
-		)
-		(instances
-			(project ""
-				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Small")
-		(at 74.93 91.44 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "34f8b139-f3b4-44ad-8016-c72dab406437")
-		(property "Reference" "D27"
-			(at 77.47 90.1064 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 77.47 92.6464 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 74.93 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode, small symbol"
-			(at 74.93 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 74.93 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb18f7ae-bd32-463f-bd3c-e0024e56442d")
-		)
-		(pin "2"
-			(uuid "77bf4af3-377e-4836-8de2-db08be625881")
-		)
-		(instances
-			(project "s"
-				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
-					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -6337,72 +6073,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 67.31 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af72f054-bbd3-40ce-bc9c-4eebe1aafff5")
-		(property "Reference" "#PWR013"
-			(at 67.31 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 67.31 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 67.31 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 67.31 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 67.31 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "721119b3-c65d-4679-aab5-07f8d91de310")
-		)
-		(instances
-			(project ""
-				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 90.17 96.52 0)
 		(unit 1)
@@ -6805,76 +6475,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 67.31 96.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c80796f3-fe56-413a-80e4-05fac1147379")
-		(property "Reference" "R3"
-			(at 69.85 95.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
-			(at 69.85 97.7899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 67.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 67.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 67.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb2535a6-b560-4327-90df-0e2958c354b2")
-		)
-		(pin "2"
-			(uuid "e49049e3-0b28-4317-8291-d54cc643cc4a")
-		)
-		(instances
-			(project ""
-				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 161.29 102.87 0)
 		(unit 1)
@@ -6935,76 +6535,6 @@
 			(project ""
 				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 74.93 96.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "df82782d-c1ea-4e1f-b256-5558ffe10b18")
-		(property "Reference" "R4"
-			(at 77.47 95.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
-			(at 77.47 97.7899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 74.93 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 74.93 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "31322a72-0652-425a-b49a-40aab270dd6a")
-		)
-		(pin "2"
-			(uuid "de410d09-ecdb-42a2-998a-9c1adb51db44")
-		)
-		(instances
-			(project "s"
-				(path "/915d30bc-a319-49d8-8691-e2837c0e16bd"
-					(reference "R4")
 					(unit 1)
 				)
 			)
