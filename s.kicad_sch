@@ -4369,7 +4369,7 @@
 		)
 		(uuid "55302223-5b16-4750-958b-9491243a1e09")
 	)
-	(label "led_1"
+	(label "led_2"
 		(at 134.62 66.04 0)
 		(effects
 			(font
@@ -4669,7 +4669,7 @@
 		)
 		(uuid "df2da369-4c85-4140-8a20-d37ec43071f1")
 	)
-	(label "led_2"
+	(label "led_1"
 		(at 134.62 68.58 0)
 		(effects
 			(font
