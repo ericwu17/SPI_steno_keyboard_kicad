@@ -3603,6 +3603,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 58.42) (xy 146.05 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90371af1-d130-4868-83c6-6a343c62bc40")
+	)
+	(wire
+		(pts
 			(xy 134.62 68.58) (xy 146.05 68.58)
 		)
 		(stroke
@@ -3640,6 +3650,16 @@
 			(type default)
 		)
 		(uuid "95c80edf-c91b-4503-8d5c-5747f9b3dd71")
+	)
+	(wire
+		(pts
+			(xy 128.27 118.11) (xy 128.27 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9910b4d6-e96a-4375-88d2-a8d688969be3")
 	)
 	(wire
 		(pts
@@ -3843,16 +3863,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 58.42) (xy 146.05 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d156304a-19f5-4cdd-8fcb-c8b047f158aa")
-	)
-	(wire
-		(pts
 			(xy 138.43 96.52) (xy 146.05 96.52)
 		)
 		(stroke
@@ -4000,6 +4010,16 @@
 			(type default)
 		)
 		(uuid "ee759ed9-c27d-457d-bc5b-07d074cbfb58")
+	)
+	(wire
+		(pts
+			(xy 128.27 118.11) (xy 255.27 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef824680-71f7-481c-be81-2b073f5828fa")
 	)
 	(wire
 		(pts
@@ -7293,6 +7313,16 @@
 		(pin "3v3_from_batt" bidirectional
 			(at 255.27 121.92 180)
 			(uuid "b9a28860-5d9e-4d70-9c05-27164f86fa2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "vbatt_mon" bidirectional
+			(at 255.27 118.11 180)
+			(uuid "bb29a5b8-381e-4106-8730-4510bb1bae2f")
 			(effects
 				(font
 					(size 1.27 1.27)
