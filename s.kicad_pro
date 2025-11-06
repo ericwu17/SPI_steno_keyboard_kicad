@@ -62,6 +62,10 @@
         [
           "lib_footprint_mismatch|238818750|131053750|6e27228a-58c6-4753-8190-9bbeb52389e0|00000000-0000-0000-0000-000000000000",
           "changed the footprint to remove some silkscreen"
+        ],
+        [
+          "lib_footprint_mismatch|55002500|128751500|2300cb9b-8f66-4f03-8110-02aa8391f923|00000000-0000-0000-0000-000000000000",
+          "changed footprint, removed silk screen"
         ]
       ],
       "meta": {
@@ -132,7 +136,7 @@
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.15,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,

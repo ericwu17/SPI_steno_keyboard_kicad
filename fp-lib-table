@@ -5,4 +5,5 @@
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
   (lib (name "DMG6968U_7")(type "KiCad")(uri "${KIPRJMOD}/footprints/DMG6968U_7.pretty")(options "")(descr ""))
   (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
+  (lib (name "USB4105")(type "KiCad")(uri "${KIPRJMOD}/footprints/USB4105.pretty")(options "")(descr ""))
 )
