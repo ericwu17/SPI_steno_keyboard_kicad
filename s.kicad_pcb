@@ -27872,6 +27872,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "ECEs\nCan do\nEverything!"
+		(at 71.882 120.396 0)
+		(layer "F.SilkS")
+		(uuid "12391923-01b1-45a3-bfe5-6405175b6655")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "ON\n"
 		(at 57.785 119.507 90)
 		(layer "F.SilkS")
