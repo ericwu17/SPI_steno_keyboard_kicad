@@ -17058,26 +17058,6 @@
 			(uuid "4259c9a1-0d21-48ee-92a6-fd3039ee6c45")
 		)
 		(fp_line
-			(start -9.2 12.9)
-			(end -9.2 6.7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "91a2e37d-2b17-47ef-9e8d-45de86731221")
-		)
-		(fp_line
-			(start -9.2 12.9)
-			(end 9.2 12.9)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "f1156e8c-12e7-4fad-9fad-4753049520ea")
-		)
-		(fp_line
 			(start 9.2 -12.95)
 			(end 7.7 -12.95)
 			(stroke
@@ -17096,28 +17076,6 @@
 			)
 			(layer "B.SilkS")
 			(uuid "0b2460df-53b6-453c-a18f-9775a3514a80")
-		)
-		(fp_line
-			(start 9.2 12.9)
-			(end 9.2 6.7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "2e7ab2e7-6b14-44e7-85b9-69b10b74d523")
-		)
-		(fp_poly
-			(pts
-				(xy -9.2 6.025) (xy -9.7 6.025) (xy -9.2 6.525) (xy -9.2 6.025)
-			)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill yes)
-			(layer "B.SilkS")
-			(uuid "d9c43f1e-dc19-47a3-8f89-95ab904cdfde")
 		)
 		(fp_line
 			(start -24 6.75)
@@ -17250,7 +17208,7 @@
 			(uuid "b8b1ba7c-dbdd-44e1-90ef-6c041840c739")
 		)
 		(fp_text user "KEEP-OUT ZONE"
-			(at 0 18.92 0)
+			(at 0 18.92 180)
 			(layer "Cmts.User")
 			(uuid "24cd4cb3-de9c-4e2f-bb8e-e7747f5cc774")
 			(effects
@@ -17261,7 +17219,7 @@
 			)
 		)
 		(fp_text user "Antenna"
-			(at -0.05 9.44 0)
+			(at -0.05 9.44 180)
 			(layer "Cmts.User")
 			(uuid "57df6112-1b72-4b46-8629-4df047db65c5")
 			(effects
@@ -17722,7 +17680,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "ef9251c8-69bf-44a2-a099-55db7b3b5a42")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 -3.86)
@@ -17735,7 +17693,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "d59b47e2-a275-4ec8-aab4-881187f7cd96")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 -2.46)
@@ -17748,7 +17706,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "a5d9377c-40fc-4fba-880c-b625b8b1d76c")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 -1.06)
@@ -17761,7 +17719,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "eda0dc70-9a57-493b-bf1c-805a7a10c18f")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 -3.16)
@@ -17774,7 +17732,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "be03b038-aefe-43df-8fea-c5e34d291e97")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" smd rect
 			(at -1.5 -2.46 90)
@@ -17785,7 +17743,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "d2560f58-56db-452b-aa90-883e420fa4f6")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 -1.76)
@@ -17798,7 +17756,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "778feed7-7d32-4509-a556-4e4527a521c4")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 -3.86)
@@ -17811,7 +17769,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "243e75b0-5ce2-43f2-95a9-83215c498211")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 -2.46)
@@ -17824,7 +17782,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "89a63baa-abb2-4712-a09e-ffabe8cb5014")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 -1.06)
@@ -17837,7 +17795,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "bccffcc4-4cc0-454a-8ba7-0e1347037778")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 -3.16)
@@ -17850,7 +17808,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "dd2817e6-6a9a-4094-b417-eb6923f438f1")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 -1.76)
@@ -17863,7 +17821,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(zone_connect 2)
-			(uuid "20fa7419-1955-47d2-87d1-af8bb74df3d6")
+			(uuid "fe48c0cd-3f1d-4183-a739-407e0622e4d0")
 		)
 		(zone
 			(net 0)
