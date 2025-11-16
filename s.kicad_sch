@@ -6994,7 +6994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SW_EVP-AA102K_PAN"
+		(property "Footprint" "push_btn_aa202k:SW_EVP-AA102K_PAN"
 			(at 80.01 22.86 0)
 			(effects
 				(font
