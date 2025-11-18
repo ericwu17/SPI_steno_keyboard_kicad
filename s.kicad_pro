@@ -58,16 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "lib_footprint_mismatch|238818750|131053750|6e27228a-58c6-4753-8190-9bbeb52389e0|00000000-0000-0000-0000-000000000000",
-          "changed the footprint to remove some silkscreen"
-        ],
-        [
-          "lib_footprint_mismatch|55002500|128751500|2300cb9b-8f66-4f03-8110-02aa8391f923|00000000-0000-0000-0000-000000000000",
-          "changed footprint, removed silk screen"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
