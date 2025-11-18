@@ -29723,7 +29723,7 @@
 		(uuid "fbbd2f2d-ed7a-4c0e-b2dd-7cda9ff1316f")
 	)
 	(gr_text "Steno board\nUCLA IEEE SPI (Eric Wu, 2025)\nSpecial thanks to Parth Pandhare"
-		(at 63.373 120.777 0)
+		(at 63.754 120.015 0)
 		(layer "F.SilkS")
 		(uuid "004974ce-7eb6-439d-9ad1-5fc7e1eab4d5")
 		(effects
